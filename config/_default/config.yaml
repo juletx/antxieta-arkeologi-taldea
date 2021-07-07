@@ -3,15 +3,15 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Antxieta Arkeologi Taldea # Website name
+baseurl: 'https://antxieta-arkeologi-taldea.netlify.app' # Website URL
+copyright: '&copy; {year} Antxieta Arkeologi Taldea' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: eu
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

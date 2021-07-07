@@ -12,48 +12,43 @@ font_size: L
 
 # SEO
 
-site_type: Person
+site_type: Organization
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: Gipuzkoako ikerketa arkeologiakoa garatzeko biltzen den irabari asmorik gabeko talde kulturala'
+twitter: 'Antxieta_Taldea'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: antxieta.arkeologi.taldea@outlook.com
+phone: 608 08 70 24
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Antxieta Arkeologia Taldea<br> Soreasu 1. Kulturgunea
+  city: Azpeitia
+  region: Gipuzkoa
+  postcode: '20730'
+  country: Espainia
+  country_code: ES
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '43.1867'
+  longitude: '-2.2639'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Asteartea 21:00-23:00'
+# appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: Antxieta_Taldea
+    link: 'https://twitter.com/Antxieta_Taldea'
+  - icon: instagram
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
+    name: antxieta_arkeologi_taldea
+    link: 'https://www.instagram.com/antxieta_arkeologi_taldea'
+  - icon: newspaper
     icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: antxietaarkeologia
+    link: 'https://uztarria.eus/komunitatea/antxietaarkeologia'
 
 # Site header
 
@@ -79,11 +74,11 @@ highlight_languages:
   - r
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 edit_page:
-  repo_url: ''
+  repo_url: 'https://github.com/juletx/antxieta-arkeologi-taldea'
   content_dir: ''
-  repo_branch: main
+  repo_branch: master
   editable:
     page: false
     post: false
@@ -100,11 +95,11 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
-  allow_derivatives: false
+  enable: true
+  allow_derivatives: true
   share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  allow_commercial: true
+  notice: 'Lizentzia: {license}'
 abstract_length: 135
 plugins_js: []
 avatar:
@@ -141,9 +136,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: mapnik
   api_key: ''
-  zoom: 15
+  zoom: 16
 marketing:
   google_analytics: ''
   google_tag_manager: ''
