@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: '[<i class=''fas fa-edit''></i>&nbsp;Bloga](posts)'
 subtitle:
 
 content:
