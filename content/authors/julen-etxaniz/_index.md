@@ -7,10 +7,10 @@ authors:
 - julen-etxaniz
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Informatika Ingeniaritzako Graduko ikaslea
+role: Partaidea
 
 # Organizations/Affiliations
 organizations:
@@ -18,6 +18,8 @@ organizations:
     url: https://www.ehu.eus/eu/home
   - name: Informatika Fakultatea
     url: https://www.ehu.eus/eu/web/informatika-fakultatea/home
+  - name: Antxieta Arkeologi Taldea
+    url: https://antxieta-arkeologi-taldea.eus
 
 # Short bio (displayed in user profile at end of posts)
 bio: Informatika Ingeniaritzako Graduko ikaslea [Euskal Herriko Unibertsitateko (UPV/EHU)](https://www.ehu.eus/eu/home) [Informatika Fakultatean](https://www.ehu.eus/eu/web/informatika-fakultatea/home). Software Ingeniaritzan espezialitatea.
@@ -58,7 +60,7 @@ social:
     link: mailto:juletxara@gmail.com
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_JulenEtxaniz_EN.pdf
+    link: uploads/CV_JulenEtxaniz_ES.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "juletxara@gmail.com"

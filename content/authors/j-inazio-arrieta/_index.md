@@ -1,22 +1,24 @@
 ---
 # Display name
-title: Antxieta Arkeologi Taldea
+title: J. Inazio Arrieta
 
 # Username (this should match the folder name)
 authors:
-- antxieta-arkeologi-taldea
+- j-inazio-arrieta
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Gipuzkoako ikerketa arkeologikoko talde kulturala
+role: Diruzaina
 
 # Organizations/Affiliations
-organizations: []
+organizations: 
+  - name: Antxieta Arkeologi Taldea
+    url: https://antxieta-arkeologi-taldea.eus
 
 # Short bio (displayed in user profile at end of posts)
-bio: Gipuzkoako ikerketa arkeologikoa garatzeko biltzen den irabazi asmorik gabeko talde kulturala.
+bio: Antxieta Arkeologi Taldeko diruzaina.
 
 # Interests
 interests: []
@@ -31,39 +33,27 @@ education: []
 social:
   - icon: twitter
     icon_pack: fab
-    link: 'https://twitter.com/Antxieta_Taldea'
-    display:
-      header: true
-  - icon: instagram
-    icon_pack: fab
-    link: 'https://www.instagram.com/antxieta_arkeologi_taldea'
-    display:
-      header: true
-  - icon: newspaper
-    icon_pack: fas
-    link: 'https://uztarria.eus/komunitatea/antxietaarkeologia'
-    display:
-      header: true
+    link: https://twitter.com/arrieta_unanue
   - icon: envelope
     icon_pack: fas
-    link: mailto:juletxara@gmail.com
-    display:
-      header: true
+    link: mailto:arrieta.unanue@outlook.com
   - icon: phone
     icon_pack: fas
     link: tel:608 08 70 24
-    display:
-      header: true
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV_J.InazioArrieta_ES.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: []
+user_groups: 
+- Kontaktua
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Gipuzkoako ikerketa arkeologikoa garatzeko biltzen den irabazi asmorik gabeko talde kulturala.
+Antxieta Arkeologi Taldeko diruzaina.
