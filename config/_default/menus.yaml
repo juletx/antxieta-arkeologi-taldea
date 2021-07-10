@@ -3,10 +3,14 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 main:
-  - name: Aurkezpena
-    url: '#about'
+#  - name: Aurkezpena
+#    url: '#about'
+#    weight: 10
+#    pre: <i class='fas fa-book'></i>&nbsp;
+  - name: Historia
+    url: '#history'
     weight: 10
-    pre: <i class='fas fa-book'></i>&nbsp;
+    pre: <i class='fas fa-landmark'></i>&nbsp;
   - name: Bloga
     url: '#posts'
     weight: 50
