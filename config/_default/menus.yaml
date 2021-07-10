@@ -7,29 +7,29 @@ main:
 #    url: '#about'
 #    weight: 10
 #    pre: <i class='fas fa-book'></i>&nbsp;
-  - name: Historia
-    url: '#history'
-    weight: 10
-    pre: <i class='fas fa-landmark'></i>&nbsp;
   - name: Bloga
     url: '#posts'
-    weight: 50
+    weight: 20
     pre: <i class='fas fa-edit'></i>&nbsp;
   - name: Proiektuak
     url: '#projects'
-    weight: 60
+    weight: 30
     pre: <i class='fas fa-code'></i>&nbsp;
+  - name: Etiketak
+    url: '#tags'
+    weight: 40
+    pre: <i class='fas fa-tags'></i>&nbsp;
+  - name: Historia
+    url: '#history'
+    weight: 50
+    pre: <i class='fas fa-landmark'></i>&nbsp;
   - name: Taldea
     url: '#people'
     weight: 60
     pre: <i class='fas fa-users'></i>&nbsp;
-  - name: Etiketak
-    url: '#tags'
-    weight: 90
-    pre: <i class='fas fa-tags'></i>&nbsp;
   - name: Kontaktua
     url: '#contact'
-    weight: 100
+    weight: 70
     pre: <i class='fas fa-envelope'></i>&nbsp;
 
 # Link to a PDF of your resume/CV from the menu.

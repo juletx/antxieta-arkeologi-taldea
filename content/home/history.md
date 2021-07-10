@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: '<i class=''fas fa-landmark''></i>&nbsp;Historia'
 subtitle: "Gehiago jakiteko irakurri [ANTXIETA arkeologi taldea: 50 urte lanean gozatuz](uploads/ANTXIETA-50%20urte%20Liburua-Konprimiuta.pdf) liburua."
