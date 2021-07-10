@@ -37,9 +37,6 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/aneeagirree
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:aneagirre2002@gmail.com
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

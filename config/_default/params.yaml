@@ -15,7 +15,7 @@ font_size: L
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: Gipuzkoako ikerketa arkeologikoa garatzeko biltzen den irabazi asmorik gabeko talde kulturala
+description: Gipuzkoan ikerketa arkeologikoa garatzen duen irabazi asmorik gabeko talde kulturala
 twitter: 'Antxieta_Taldea'
 
 # Contact (edit or remove options as required)
@@ -23,7 +23,7 @@ twitter: 'Antxieta_Taldea'
 email: antxieta.arkeologi.taldea@outlook.com
 phone: 608 08 70 24
 address:
-  street: Antxieta Arkeologia Taldea<br> Soreasu 1. Kulturgunea
+  street: Antxieta Arkeologia Taldea bulegoa<br> Soreasu 1. Kulturgunea
   city: Azpeitia
   region: Gipuzkoa
   postcode: '20730'
@@ -34,7 +34,7 @@ coordinates:
   longitude: '-2.2639'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Asteartea 21:00-23:00'
+  - 'Asteartea 21:00-23:00 bulegoan'
 # appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
@@ -49,6 +49,10 @@ contact_links:
     icon_pack: fas
     name: antxietaarkeologia
     link: 'https://uztarria.eus/komunitatea/antxietaarkeologia'
+  - icon: newspaper
+    icon_pack: fas
+    name: antxieta-arkeologia-taldea
+    link: 'https://danbolin.eus/category/antxieta-arkeologia-taldea'
 
 # Site header
 

@@ -34,12 +34,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/inyigo
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:inigo.arizaga@tecnalia.com
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV_IñigoArizaga_ES.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

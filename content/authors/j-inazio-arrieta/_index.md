@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Diruzaina
+role: Diruzaina | Kontaktua
 
 # Organizations/Affiliations
 organizations: 
@@ -33,16 +33,13 @@ education: []
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/arrieta_unanue
+    link: https://twitter.com/Antxieta_Taldea
   - icon: envelope
     icon_pack: fas
-    link: mailto:arrieta.unanue@outlook.com
+    link: mailto:antxieta.arkeologi.taldea@outlook.com
   - icon: phone
     icon_pack: fas
     link: tel:608 08 70 24
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV_J.InazioArrieta_ES.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -50,7 +47,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-- Kontaktua
+- Partaideak
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -10,13 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Gipuzkoako ikerketa arkeologikoko talde kulturala
+role: Gipuzkoan ikerketa arkeologikoa garatzen duen taldea
 
 # Organizations/Affiliations
 organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-bio: Gipuzkoako ikerketa arkeologikoa garatzeko biltzen den irabazi asmorik gabeko talde kulturala.
+bio: Gipuzkoan ikerketa arkeologikoa garatzen duen irabazi asmorik gabeko talde kulturala.
 
 # Interests
 interests: []
@@ -44,6 +44,11 @@ social:
     link: 'https://uztarria.eus/komunitatea/antxietaarkeologia'
     display:
       header: true
+  - icon: newspaper
+    icon_pack: fas
+    link: 'https://danbolin.eus/category/antxieta-arkeologia-taldea'
+    display:
+      header: true
   - icon: envelope
     icon_pack: fas
     link: mailto:juletxara@gmail.com
@@ -66,4 +71,4 @@ user_groups: []
 highlight_name: true
 ---
 
-Gipuzkoako ikerketa arkeologikoa garatzeko biltzen den irabazi asmorik gabeko talde kulturala.
+Gipuzkoan ikerketa arkeologikoa garatzen duen irabazi asmorik gabeko talde kulturala.

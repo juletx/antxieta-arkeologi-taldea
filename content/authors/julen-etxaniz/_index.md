@@ -55,12 +55,6 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/juletxara
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:juletxara@gmail.com
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV_JulenEtxaniz_ES.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "juletxara@gmail.com"
