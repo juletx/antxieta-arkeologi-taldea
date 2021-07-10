@@ -71,4 +71,8 @@ user_groups: []
 highlight_name: true
 ---
 
-Gipuzkoan ikerketa arkeologikoa garatzen duen irabazi asmorik gabeko talde kulturala.
+Antxieta Arkeologi Taldea gipuzkoan ikerketa arkeologikoa garatzen duen irabazi asmorik gabeko talde kulturala da.
+
+Gure lana aurrehistoriako arrastoen aurkikuntzan oinarritzen da, bai haitzuloetan, baita aire librean ere. Gipuzkoako Foru Aldundiaren baimenarekin ikerketako lehen fasean murgiltzen gara, hau da, mendian miaketak eta zundaketak egin, laginak analizatu eta azterketa bat egiten dugu, aurkikuntzaren ezaugarriak neurtzeko.
+
+Lan hauek arkeologo profesional batek gainbegiratzen eta zuzentzen ditu, eta ikerketako lehen fasea amaitzean, Gipuzkoako Foru Aldundiaren Arkeologia gordetegira eramaten dira dagokien azterketa sakona eta katalogazio ofiziala egiteko.
