@@ -84,7 +84,7 @@ experience:
     urte lehenago hasi zuten lanarekin jarraituko
     dutenak.
 
-    1975. urtean lehen gazte taldea gehitzea
+    1975 urtean lehen gazte taldea gehitzea
     lortu zuten. 1978an aurpegi berriekin taldea
     handitzen da. 1982an hirugarren gazte talde
     bat iristen da.
