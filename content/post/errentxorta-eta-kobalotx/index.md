@@ -28,7 +28,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: 
+- miaketak-2021-2022
 ---
 
 Errentxorta (Beizama). 1980an giza hezurrak aurkitu genituen han, eta Kalkolitiko/Brontze aroko hilobi bezala katalogatu genuen. 40 urte pasatu ondoren, kostatu zaigu aurkitzea, baina izerdia bota ondoren topatu eta berriro miatu dugu lekua. Koba honetan azken 40 urteetan azkonarrak bakarrik ibili dira.

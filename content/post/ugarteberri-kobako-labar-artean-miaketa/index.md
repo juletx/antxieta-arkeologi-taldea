@@ -29,7 +29,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: 
+- miaketak-2021-2022
 ---
 
 Azken egunotako eguraldia aproposa izan ohi da ezkutuko koba estaliak bilatzeko. Koba barruetan askoz haize epelagoa egon ohi da kanpoan baino, eta bertan garatzen diren presioengatik baporez kargatutako haize ufadak sortzen dira kanpo aldera, ketan dagoen tximinia bat balitz bezala. Hori horrela, urrunetik ikusten dira.

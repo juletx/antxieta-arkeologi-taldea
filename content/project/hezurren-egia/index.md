@@ -7,9 +7,9 @@ authors: []
 tags: 
 - Hezurren Egia
 - Prehistoria
-- Dokumentazioa
+- Dibulgazioa
 categories: []
-date: 2021-07-10T12:21:17+02:00
+date: 2014-08-25
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -23,23 +23,31 @@ image:
   preview_only: false
 
 links:
-- name: Web
+- name: Webgunea
   url: https://www.ingurugiroetxea.org/eu/hezurren-egia-heziketa
   icon_pack: fas
   icon: globe
-- name: PDF EU
+- name: Laburpena
+  url: media/Proiektua 2014 - HEZURREN EGIA - Laburpena.pdf
+  icon_pack: fas
+  icon: file-download
+- name: Proiektua
+  url: media/Proiektua 2014 - HEZURREN EGIA - Gizakiaren Eboluzioa UROLA bailaran.pdf
+  icon_pack: fas
+  icon: file-download
+- name: Posterra EU
   url: media/UROLAposterra.pdf
   icon_pack: fas
   icon: file-download
-- name: PDF ES
+- name: Posterra ES
   url: media/UROLAposterra-ES.pdf
   icon_pack: fas
   icon: file-download
-- name: PDF EN
+- name: Posterra EN
   url: media/UROLAposterra-EN.pdf
   icon_pack: fas
   icon: file-download
-- name: PDF FR
+- name: Posterra FR
   url: media/UROLAposterra-FR.pdf
   icon_pack: fas
   icon: file-download

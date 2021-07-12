@@ -7,7 +7,7 @@ summary: "Udalaren brigadetako langileek aurretik egindako lana borobilduz, aste
 authors: []
 tags: 
 - Izarraitz
-- Aire Libre
+- Aire Librea
 - Asurtzu
 categories: []
 date: 2021-03-02
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- izarraitz
+- izarraitz-2021-2022
 ---
 
 Urtarrileko elurtean, lau pago jausi zitzaizkigun Asurtzuko aztarnategiaren gainera; horietako batzuk, gainera, arrisku egoeran gelditu ziren, zintzilik.

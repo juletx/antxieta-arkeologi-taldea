@@ -27,6 +27,12 @@ content:
   filter_button:
   - name: Denak
     tag: '*'
+  - name: Aire Librea
+    tag: Aire Librea
+  - name: Miaketak
+    tag: Miaketak
+  - name: Dibulgazioa
+    tag: Dibulgazioa
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

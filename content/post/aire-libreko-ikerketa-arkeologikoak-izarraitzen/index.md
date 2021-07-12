@@ -6,8 +6,9 @@ subtitle: ""
 summary: ""
 authors: []
 tags: 
-- Aire Libre
+- Aire Librea
 - Izarraitz
+- Asurtzu
 categories: []
 date: 2021-06-14
 lastmod: ""
@@ -28,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- izarraitz
+- izarraitz-2021-2022
 ---
 
 Zer altxor ezkutatzen du Izarraitzek? 2006-2007an Ikulluteko gaina aztertu genuen; 2013 eta 2020 artean Asurtzu eremua; eta 2021-2022 urteetan Izarraizko eremuan zabaltzen ari gara.

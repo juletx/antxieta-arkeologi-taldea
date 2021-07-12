@@ -28,7 +28,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: 
+- miaketak-2021-2022
 ---
 
 2020 urtearen amaieran, Aizarnako Atsoagureta kobazuloa miatzen hasi ziren Antxieta arkeologia taldekoak. Urte ugari eman ditu haitzuloak itxita, eta azterketa sakon bat egiten hastea erabaki zuten Antxieta taldekoek. Miaketako lehen sorpresarekin egin dute topo gaur; izan ere, hartzaren atzaparkadak aurkitu dituzte galeria nagusiaren horma batean. Antxieta taldekoen arabera, oraindik miaketa lan handia dago egiteko, eta tinko jarraituko dute lanean.
