@@ -39,19 +39,23 @@ office_hours:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: Antxieta_Taldea
+    name: Twitter
     link: 'https://twitter.com/Antxieta_Taldea'
   - icon: instagram
     icon_pack: fab
-    name: antxieta_arkeologi_taldea
+    name: Instagram
     link: 'https://www.instagram.com/antxieta_arkeologi_taldea'
+  - icon: youtube
+    icon_pack: fab
+    name: YouTube
+    link: 'https://www.youtube.com/channel/UCWUlFhZBxXqodnvo7FVSkuw'
   - icon: newspaper
     icon_pack: fas
-    name: antxietaarkeologia
+    name: Uztarria
     link: 'https://uztarria.eus/komunitatea/antxietaarkeologia'
   - icon: newspaper
     icon_pack: fas
-    name: antxieta-arkeologia-taldea
+    name: Danbolin
     link: 'https://danbolin.eus/category/antxieta-arkeologia-taldea'
 
 # Site header

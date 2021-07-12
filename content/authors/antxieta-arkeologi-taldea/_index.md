@@ -39,6 +39,11 @@ social:
     link: 'https://www.instagram.com/antxieta_arkeologi_taldea'
     display:
       header: true
+  - icon: youtube
+    icon_pack: fab
+    link: 'https://www.youtube.com/channel/UCWUlFhZBxXqodnvo7FVSkuw'
+    display:
+      header: true
   - icon: newspaper
     icon_pack: fas
     link: 'https://uztarria.eus/komunitatea/antxietaarkeologia'
@@ -75,4 +80,4 @@ Antxieta Arkeologi Taldea gipuzkoan ikerketa arkeologikoa garatzen duen irabazi 
 
 Gure lana aurrehistoriako arrastoen aurkikuntzan oinarritzen da, bai haitzuloetan, baita aire librean ere. Gipuzkoako Foru Aldundiaren baimenarekin ikerketako lehen fasean murgiltzen gara, hau da, mendian miaketak eta zundaketak egin, laginak analizatu eta azterketa bat egiten dugu, aurkikuntzaren ezaugarriak neurtzeko.
 
-Lan hauek arkeologo profesional batek gainbegiratzen eta zuzentzen ditu, eta ikerketako lehen fasea amaitzean, Gipuzkoako Foru Aldundiaren Arkeologia gordetegira eramaten dira dagokien azterketa sakona eta katalogazio ofiziala egiteko.
+Lan hauek arkeologo aditu batek gainbegiratzen eta zuzentzen ditu, eta ikerketaren lehen fasea amaitzean Gordailura eramaten dira, Gipuzkoako Foru Aldundiaren Arkeologia gordetegia, dagokien azterketa sakona eta katalogazio ofiziala egiteko.
