@@ -26,11 +26,11 @@ links:
 - name: Proiektua
   url: media/IZARRAITZ - Proiektua 2021-2022 urtea.pdf
   icon_pack: fas
-  icon: file-download
+  icon: file-pdf
 - name: Proiektua M.Rojo
   url: media/1 - IZARRAITZ - Proiektua M.Rojo Euskaraz - 2021-2022 urtea.pdf
   icon_pack: fas
-  icon: file-download
+  icon: file-pdf
 
 url_code: ""
 url_pdf: ""

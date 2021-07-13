@@ -30,27 +30,27 @@ links:
 - name: Laburpena
   url: media/Proiektua 2014 - HEZURREN EGIA - Laburpena.pdf
   icon_pack: fas
-  icon: file-download
+  icon: file-pdf
 - name: Proiektua
   url: media/Proiektua 2014 - HEZURREN EGIA - Gizakiaren Eboluzioa UROLA bailaran.pdf
   icon_pack: fas
-  icon: file-download
+  icon: file-pdf
 - name: Posterra EU
   url: media/UROLAposterra.pdf
   icon_pack: fas
-  icon: file-download
+  icon: file-pdf
 - name: Posterra ES
   url: media/UROLAposterra-ES.pdf
   icon_pack: fas
-  icon: file-download
+  icon: file-pdf
 - name: Posterra EN
   url: media/UROLAposterra-EN.pdf
   icon_pack: fas
-  icon: file-download
+  icon: file-pdf
 - name: Posterra FR
   url: media/UROLAposterra-FR.pdf
   icon_pack: fas
-  icon: file-download
+  icon: file-pdf
 
 url_code: ""
 url_pdf: ""

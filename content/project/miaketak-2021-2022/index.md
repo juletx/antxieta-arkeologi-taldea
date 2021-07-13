@@ -26,7 +26,7 @@ links:
 - name: Proiektua
   url: media/GFA-2021+2022-MIAKETAK-Proiektua.pdf
   icon_pack: fas
-  icon: file-download
+  icon: file-pdf
 
 url_code: ""
 url_pdf: ""

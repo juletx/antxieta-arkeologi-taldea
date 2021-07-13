@@ -26,7 +26,7 @@ links:
 - name: Proiektua
   url: media/IZARRAITZ - Proiektu Orokorra.pdf
   icon_pack: fas
-  icon: file-download
+  icon: file-pdf
 
 url_code: ""
 url_pdf: ""
