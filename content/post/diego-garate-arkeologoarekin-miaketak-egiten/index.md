@@ -9,9 +9,6 @@ tags:
 - Miaketak
 - Kobazuloak
 - Artea
-- Urkulu
-- Aitzbeltz
-- Lizarrola
 categories: []
 date: 2021-07-13
 lastmod: ""
@@ -22,7 +19,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Aitzbeltz"
+  caption: "Diego Garate arkeologoarekin miaketak egiten"
   focal_point: ""
   preview_only: false
 
@@ -41,7 +38,7 @@ Guk ere ez genizkion gauzak erraz-erraz ipini. Izerdi ederrak atera zituen gurek
 
 Plazer bat izan zen.
 
-![Urkulu](media/1.jpg)
-![Urkulu](media/2.jpg)
-![Aitzbeltz](media/3.jpg)
-![Urkulu](media/3.jpg)
+![Miaketak](media/1.jpg)
+![Miaketak](media/2.jpg)
+![Miaketak](media/3.jpg)
+![Miaketak](media/4.jpg)
