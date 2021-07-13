@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ekain, 1969"
+title: "Erlaitzeko labar artearen ikerketa"
 subtitle: ""
 summary: ""
 authors: []
 tags: 
-- Ekain
+- Erlaitz
+- Zestoa
 - Artea
 - Kobazuloak
-- Zestoa
 categories: []
-date: 2021-06-09
+date: 2020-10-27
 lastmod: ""
 featured: false
 draft: false
@@ -20,7 +20,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Ekain, 1969"
+  caption: "Erlaitz"
   focal_point: ""
   preview_only: false
 
@@ -32,8 +32,10 @@ image:
 projects: []
 ---
 
-1969ko ekainaren 8an, Azpeitiko Antxieta taldeko Andoni Albizuri Katxo-k eta Rafael Rezabalek sari bikaina lortu zuten, Sastarrain bailaran arkeologia miaketak egiten zebiltzala: Ekaingo margoak aurkitu zituzten. Labar arte paregabea eta aztarnategi ikusgarria. Oraindik gauza bera egiten jarraitzen dugu Antxietako kideok.
+Blanca Otxoa EHU zuzendaritzan, Marcos Garcia eta Alvaro Ibero UCMko lankidetza eta Antxieta taldearen elkarlanarekin, Ekain kobazulotik hain gertu dagoen aztarnategi berezi honek daukan Labar Arte bikainaren ikerketarekin jarraitzen dugu.
 
-![Ekain, 1969](media/1.jpg)
-![Ekain, 1969](media/2.jpg)
-![Ekain, 1969](media/3.jpg)
+Lan zorrotza ari dira egiten ikerlari trebe hauek eta baliabideak lortzen badituzte argitalpen bikainak aterako dituzte.
+
+![Erlaitz](media/1.jpg)
+![Erlaitz](media/2.jpg)
+![Erlaitz](media/3.jpg)

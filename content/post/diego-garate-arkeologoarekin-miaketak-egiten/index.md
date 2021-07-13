@@ -1,17 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ekain, 1969"
+title: "Diego Garate arkeologoarekin miaketak egiten"
 subtitle: ""
 summary: ""
 authors: []
-tags: 
-- Ekain
-- Artea
+tags:
+- Miaketak
 - Kobazuloak
-- Zestoa
+- Artea
+- Urkulu
+- Aitzbeltz
+- Lizarrola
 categories: []
-date: 2021-06-09
+date: 2021-07-13
 lastmod: ""
 featured: false
 draft: false
@@ -20,7 +22,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Ekain, 1969"
+  caption: "Aitzbeltz"
   focal_point: ""
   preview_only: false
 
@@ -29,11 +31,17 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: 
+- miaketak-2021-2022
 ---
 
-1969ko ekainaren 8an, Azpeitiko Antxieta taldeko Andoni Albizuri Katxo-k eta Rafael Rezabalek sari bikaina lortu zuten, Sastarrain bailaran arkeologia miaketak egiten zebiltzala: Ekaingo margoak aurkitu zituzten. Labar arte paregabea eta aztarnategi ikusgarria. Oraindik gauza bera egiten jarraitzen dugu Antxietako kideok.
+Labar artean gaur egungo punta-puntako adituen artean dagoen Diego Garate plentziarraren bisita jaso genuen joan den igandean, eta berarekin miaketa saio bikain bat egiteko ohorea izan genuen.
 
-![Ekain, 1969](media/1.jpg)
-![Ekain, 1969](media/2.jpg)
-![Ekain, 1969](media/3.jpg)
+Guk ere ez genizkion gauzak erraz-erraz ipini. Izerdi ederrak atera zituen gurekin egun guztian. Gurekin ez zen gelditu lurrean etzan gabe!
+
+Plazer bat izan zen.
+
+![Urkulu](media/1.jpg)
+![Urkulu](media/2.jpg)
+![Aitzbeltz](media/3.jpg)
+![Urkulu](media/3.jpg)
