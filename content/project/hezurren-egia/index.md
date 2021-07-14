@@ -39,6 +39,10 @@ links:
   url: https://www.youtube.com/watch?v=KJP_6C5G3UU&list=PLiA-oG1NhBeq0lrXpqIMGosqql3bye7i9&index=1
   icon_pack: fab
   icon: youtube
+- name: Ariketak
+  url: media/MaterialDidaktikoa.zip
+  icon_pack: fas
+  icon: file-archive
 - name: Posterra EU
   url: media/UROLAposterra.pdf
   icon_pack: fas
@@ -87,3 +91,311 @@ Bertan Gu izan aurretik, gizakia gutxienez 300.000 urtez bizi izan da Urola bail
 <br>
 
 {{< youtube PAS62s-jblc >}}
+
+## Ariketak
+
+[<i class='fas fa-file-pdf'></i>&nbsp;Materialaren aurkezpena](media/MaterialOsagarriarenAurkezpena.pdf)
+
+[<i class='fas fa-file-archive'></i>&nbsp;Materiala deskargatu](media/MaterialDidaktikoa.zip)
+
+### Maila erraza
+
+<table style="overflow-x: hidden">
+  <thead>
+    <tr>
+      <th>Erraza</th>
+      <th>Ariketak</th>
+      <th>Erantzunak</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Galderak</td>
+      <td>
+        <a href="media/Erraza/Galderak1.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Erraza/Erantzunak1/Erantzunak1.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Behe Paleolitoa</td>
+      <td>
+        <a href="media/Erraza/Letra zopa Erraza/BehePaleolitoa1.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Erraza/Erantzunak1/BehePaleolitoa1-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Erdi Paleolitoa</td>
+      <td>
+        <a href="media/Erraza/Letra zopa Erraza/ErdiPaleolitoa1.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Erraza/Erantzunak1/ErdiPaleolitoa1-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Goi Paleolitoa</td>
+      <td>
+        <a href="media/Erraza/Letra zopa Erraza/GoiPaleolitoa1.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Erraza/Erantzunak1/GoiPaleolitoa1-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Neolito Metalen Aroa</td>
+      <td>
+        <a href="media/Erraza/Letra zopa Erraza/Neolito-MetalenAroa1.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Erraza/Erantzunak1/Neolito-MetalenAroa1-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Mapa</td>
+      <td>
+        <a href="media/Erraza/Mapa1.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Erraza/Erantzunak1/Mapa1-Erantzuna.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Marrazki Jokoa</td>
+      <td>
+        <a href="media/Erraza/MarrazkiJokoa1.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Erraza/Erantzunak1/MarrazkiJokoa-Erantzunak.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Maila ertaina
+
+<table style="overflow-x: hidden">
+  <thead>
+    <tr>
+      <th>Ertaina</th>
+      <th>Ariketak</th>
+      <th>Erantzunak</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Galderak</td>
+      <td>
+        <a href="media/Ertaina/Galderak2.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Ertaina/Erantzunak2/Erantzunak2.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Behe Paleolitoa</td>
+      <td>
+        <a href="media/Ertaina/Letra zopa Ertaina/BehePaleolitoa2.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Ertaina/Erantzunak2/BehePaleolitoa2-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Erdi Paleolitoa</td>
+      <td>
+        <a href="media/Ertaina/Letra zopa Ertaina/ErdiPaleolitoa2.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Ertaina/Erantzunak2/ErdiPaleolitoa2-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Goi Paleolitoa</td>
+      <td>
+        <a href="media/Ertaina/Letra zopa Ertaina/GoiPaleolitoa2.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Ertaina/Erantzunak2/GoiPaleolitoa2-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Neolito Metalen Aroa</td>
+      <td>
+        <a href="media/Ertaina/Letra zopa Ertaina/Neolito-MetalenAroa2.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Ertaina/Erantzunak2/Neolito-MetalenAroa2-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Mapa</td>
+      <td>
+        <a href="media/Ertaina/Mapa2.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Ertaina/Erantzunak2/Mapa2-Erantzuna.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Maila zaila
+
+<table style="overflow-x: hidden">
+  <thead>
+    <tr>
+      <th>Zaila</th>
+      <th>Ariketak</th>
+      <th>Erantzunak</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Galderak</td>
+      <td>
+        <a href="media/Zaila/Galderak3.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Zaila/Erantzunak3/Erantzunak3.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Behe Paleolitoa</td>
+      <td>
+        <a href="media/Zaila/Letra zopa Zaila/BehePaleolitoa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Zaila/Erantzunak3/BehePaleolitoa-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Erdi Paleolitoa</td>
+      <td>
+        <a href="media/Zaila/Letra zopa Zaila/ErdiPaleolitoa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Zaila/Erantzunak3/ErdiPaleolitoa-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Goi Paleolitoa</td>
+      <td>
+        <a href="media/Zaila/Letra zopa Zaila/GoiPaleolitoa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Zaila/Erantzunak3/GoiPaleolitoa-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Neolito Metalen Aroa</td>
+      <td>
+        <a href="media/Zaila/Letra zopa Zaila/Neolito-MetalenAroa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Zaila/Erantzunak3/Neolito-MetalenAroa-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Letra Zopa - Eboluzioa</td>
+      <td>
+        <a href="media/Zaila/Letra zopa Zaila/Eboluzioa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Zaila/Erantzunak3/Eboluzioa-Zopa.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Mapa</td>
+      <td>
+        <a href="media/Zaila/Mapa3.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+      <td>
+        <a href="media/Zaila/Erantzunak3/Mapa3-Erantzuna.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
