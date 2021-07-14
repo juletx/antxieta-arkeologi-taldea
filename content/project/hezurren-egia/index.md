@@ -35,6 +35,10 @@ links:
   url: media/Proiektua 2014 - HEZURREN EGIA - Gizakiaren Eboluzioa UROLA bailaran.pdf
   icon_pack: fas
   icon: file-pdf
+- name: Bideoak
+  url: https://www.youtube.com/watch?v=KJP_6C5G3UU&list=PLiA-oG1NhBeq0lrXpqIMGosqql3bye7i9&index=1
+  icon_pack: fab
+  icon: youtube
 - name: Posterra EU
   url: media/UROLAposterra.pdf
   icon_pack: fas
@@ -67,9 +71,19 @@ slides: ""
 
 Bertan Gu izan aurretik, gizakia gutxienez 300.000 urtez bizi izan da Urola bailaran. Klima eta ingurua aldizka aldatuz joan dira epe luze horretan, eta Urolako lehen gizakia lehoi, elefante, hiena, makako eta bestelako piztien artean bizi izan zen. Milaka urte geroago, Izotz Aroan zehar, orduko gizakiak mamutekin, errinozero iletsuekin, bisonteekin, eta kobetako hartz, lehoi eta hienekin partekatu zuen lurralde hau. Duela 40.000 urte, gu bezalakoa zen gizakiak hotzaldirik latzena gainditzea lortu zuen bizimodu ehiztari-nomadari esker, eta klima hobetzean, azkenean, nekazari eta abeltzain bilakatu zen duela 7.000 urte, bere lurraldean finkatuz.
 
+## Posterrak
+
 <div style="text-align: center">
   <a href="media/UROLAposterra.pdf" target="_blank"><img style="display: inline-block" src="media/btnEU.png"></a>
   <a href="media/UROLAposterra-ES.pdf" target="_blank"><img style="display: inline-block" src="media/btnES.png"></a>
   <a href="media/UROLAposterra-EN.pdf" target="_blank"><img style="display: inline-block" src="media/btnEN.png"></a>
   <a href="media/UROLAposterra-FR.pdf" target="_blank"><img style="display: inline-block" src="media/btnFR.png"></a>
 </div>
+
+## Bideoak
+
+{{< youtube KJP_6C5G3UU >}}
+
+<br>
+
+{{< youtube PAS62s-jblc >}}
