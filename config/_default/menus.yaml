@@ -23,6 +23,10 @@ main:
     url: '#history'
     weight: 50
     pre: <i class='fas fa-landmark'></i>&nbsp;
+  - name: Aurkikuntzak
+    url: '#findings'
+    weight: 55
+    pre: <i class='fas fa-search-location'></i>&nbsp;
   - name: Taldea
     url: '#people'
     weight: 60
