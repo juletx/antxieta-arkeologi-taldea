@@ -6,8 +6,10 @@ summary: "Izarraitz diziplina anitzeko epe luzerako proiektu bat da: Geologia et
 authors: []
 tags:
 - Izarraitz
-- Ikerketa Arkeologikoa
 - Aire Librea
+- Asurtzu
+- Erlo
+- Azpeitia
 categories: []
 date: 2021-07-03
 

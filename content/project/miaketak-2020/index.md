@@ -1,17 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Izarraitz 2021-2022
-summary: Aire libreko ikerketa arkeologikoak Izarraitz mendilerroan.
+title: "Miaketak 2020"
+summary: "Labarretako arte miaketak eta arkeologi miaketa orokorrak Urola, Deba eta Oriako bailaratan."
 authors: []
 tags: 
-- Izarraitz
-- Aire Librea
-- Asurtzu
-- Erlo
-- Azpeitia
+- Miaketak
+- Artea
+- Kobazuloak
 categories: []
-date: 2021-07-03
+date: 2020-04-20
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -20,17 +18,13 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: Aire libreko ikerketa arkeologikoak Izarraitz mendilerroan.
+  caption: "Labarretako arte miaketak"
   focal_point: ""
   preview_only: false
 
 links:
 - name: Proiektua
-  url: media/IZARRAITZ - Proiektua 2021-2022 urtea.pdf
-  icon_pack: fas
-  icon: file-pdf
-- name: Proiektua M.Rojo
-  url: media/1 - IZARRAITZ - Proiektua M.Rojo Euskaraz - 2021-2022 urtea.pdf
+  url: media/GFA-2020-MIAKETAK-Proiektua.pdf
   icon_pack: fas
   icon: file-pdf
 
@@ -47,4 +41,4 @@ url_video: ""
 slides: ""
 ---
 
-Aire libreko ikerketa arkeologikoak Izarraitz mendilerroan.
+Labarretako arte miaketak eta arkeologi miaketa orokorrak Urola, Deba eta Oriako bailaratan.
