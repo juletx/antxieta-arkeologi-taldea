@@ -1,17 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Sandaili baseliza-Araotz-Oñati"
+title: "Aspaldiko partez amalurraren barruak miatzen"
 subtitle: ""
 summary: ""
 authors: []
 tags: 
-- Artea
 - Miaketak
 - Kobazuloak
-- Sandaili
 categories: []
-date: 2020-12-17
+date: 2020-06-07
 lastmod: ""
 featured: false
 draft: false
@@ -20,7 +18,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Sandaili baseliza-Araotz-Oñati"
+  caption: "Aspaldiko partez amalurraren barruak miatzen"
   focal_point: ""
   preview_only: false
 
@@ -33,8 +31,10 @@ projects:
 - miaketak-2020
 ---
 
-Joan den igandean Arantzazu inguruan ibili ginen, Araotzetik eta Arrikrutz kobatik gertu. Baseliza polit hau koba baten barruan dago; bertako urak ugalkortasuna lortzeko omen dira, eta guk zurrutada bat egiten genuen bitartean labar arteko miaketak egin genituen.
+Gaur, aspaldiko partez, Amalurraren barruak miatzen ibili gera.
+Goxatu ederra hartu degu!
+Faltan botatzen genuen baina berak gu ere seguru baietz.
 
-![Sandaili](media/1.jpg)
-![Sandaili](media/2.jpg)
-![Sandaili](media/3.jpg)
+![Aspaldiko partez amalurraren barruak miatzen](media/1.jpg)
+![Aspaldiko partez amalurraren barruak miatzen](media/2.jpg)
+![Aspaldiko partez amalurraren barruak miatzen](media/3.jpg)

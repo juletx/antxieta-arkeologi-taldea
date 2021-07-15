@@ -10,6 +10,7 @@ tags:
 - Zestoa
 - Artea
 - Kobazuloak
+- Miaketak
 categories: []
 date: 2020-10-27
 lastmod: ""
@@ -29,7 +30,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: 
+- miaketak-2020
 ---
 
 Blanca Otxoa EHU zuzendaritzan, Marcos Garcia eta Alvaro Ibero UCMko lankidetza eta Antxieta taldearen elkarlanarekin, Ekain kobazulotik hain gertu dagoen aztarnategi berezi honek daukan Labar Arte bikainaren ikerketarekin jarraitzen dugu.

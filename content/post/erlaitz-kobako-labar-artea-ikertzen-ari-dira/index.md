@@ -8,8 +8,9 @@ authors: []
 tags: 
 - Erlaitz
 - Zestoa
-- Kobazuloak
 - Artea
+- Kobazuloak
+- Miaketak
 categories: []
 date: 2020-09-01
 lastmod: ""
@@ -29,7 +30,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: 
+- miaketak-2020
 ---
 
 Antxieta arkeologia taldeak Zestoa eta Deba artean dagoen Erlaitz izeneko koban material arkeologiko esanguratsu batzuk aurkitu zituen 1978an. Goi Paleolitoko material horiek eta Brontze Aroko gizakien aztarnek balio izan zuten koba aztarnategi gisa katalogatzeko.

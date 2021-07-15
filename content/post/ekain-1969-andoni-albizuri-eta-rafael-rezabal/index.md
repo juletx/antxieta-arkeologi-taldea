@@ -48,3 +48,5 @@ Joxe Mielek ere benetako estimazioa zuen Andonirentzat eta sekulako berriketak e
 Rafael Rezabal (Azpeitia 1930) gaur egun Antxietako taldekidea jarraitzen du izaten eta 90 urterekin sasoi onenean dago. Oraindik beste aurkikuntza garrantzitsuren bat egin behar digu gure mendietako kobazulo batetan.
 
 ![Andoni Albizuri](media/7.jpg)
+
+{{< youtube d3X_nfi340Q >}}
