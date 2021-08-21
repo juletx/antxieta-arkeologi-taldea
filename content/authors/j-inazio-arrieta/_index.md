@@ -30,16 +30,7 @@ education: []
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Antxieta_Taldea
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:antxieta.arkeologi.taldea@outlook.com
-  - icon: phone
-    icon_pack: fas
-    link: tel:608 08 70 24
+social: []
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

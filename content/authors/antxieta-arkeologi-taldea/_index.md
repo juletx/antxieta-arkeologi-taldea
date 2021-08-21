@@ -56,7 +56,7 @@ social:
       header: true
   - icon: envelope
     icon_pack: fas
-    link: mailto:juletxara@gmail.com
+    link: mailto:antxieta.arkeologi.taldea@outlook.com
     display:
       header: true
   - icon: phone
