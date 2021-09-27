@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Baio - Zestoa kobazuloko aztarnategia"
+title: "Zestoako Baio kobazuloko aztarnategian ikerketa arkeologikoak hastear"
 subtitle: ""
-summary: ""
+summary: "2021ean eta 2022an Baio kobazuloan ikerketa arkeologikoak gauzatzeko proiektua aurkeztu du Antxieta Arkelogi Taldeak."
 authors: []
 tags: 
 - Baio
@@ -20,7 +20,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Baio - Zestoa kobazuloko aztarnategia"
+  caption: "Zestoako Baio kobazuloa"
   focal_point: ""
   preview_only: false
 
@@ -38,9 +38,9 @@ Asier Gomez EHUko Ramon y Cajal ikertzailea degu proiektuaren zuzendaritzan eta 
 
 Zientzialari talde bikainarekin dator Asier Zestoako aztarnategi honetara ikertzera eta pixkanaka aurkezten joango gera bakoitza.
 
-![Asurtzu 2021 proiektua](media/1.jpg)
+![Zestoako Baio kobazuloa](media/1.jpg)
 
-![Asurtzu 2021 proiektua](media/2.jpg)
+![Zestoako Baio kobazuloa](media/2.jpg)
 
 Antxieta taldekoek 1990 eta 1998-1999 zundaketa bat eginez katalogatu genuen Zestoako aztarnategi berezi hau.
 
@@ -49,23 +49,23 @@ Printzipioz, dakiguna, Gipuzkoako faunarik zaharrena dagoela koba honetan eta be
 <div style="text-align: center">
   <div style="display: inline-block">
 
-  ![Asurtzu 2021 proiektua](media/3.png)
+  ![Zestoako Baio kobazuloa](media/3.png)
   </div>
 
   <div style="display: inline-block">
 
-  ![Asurtzu 2021 proiektua](media/5.png)
+  ![Zestoako Baio kobazuloa](media/5.png)
   </div>
 </div>
 
 <div style="text-align: center">
   <div style="display: inline-block">
 
-  ![Asurtzu 2021 proiektua](media/4.png)
+  ![Zestoako Baio kobazuloa](media/4.png)
   </div>
 
   <div style="display: inline-block">
 
-  ![Asurtzu 2021 proiektua](media/6.png)
+  ![Zestoako Baio kobazuloa](media/6.png)
   </div>
 </div>
