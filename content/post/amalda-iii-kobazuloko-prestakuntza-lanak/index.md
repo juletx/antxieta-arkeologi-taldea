@@ -9,6 +9,7 @@ tags:
 - Amalda III
 - Zestoa
 - Kobazuloak
+- Erdi Paleolitoa
 categories: []
 date: 2020-09-07
 lastmod: ""
