@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Helburuak beteta bukatu du Antxieta arkeologi taldeak hirugarren urteko lanaldia Amalda III kobazuloan"
+title: "Helburuak beteta bukatu dugu hirugarren urteko lanaldia Amalda III kobazuloan"
 subtitle: ""
 summary: "Hirugarren urteko lanaldia bukatu dugu Zestoako Amalda kobazulo magikoan. 2021eko lanaldia aparta izan da."
 authors: []
