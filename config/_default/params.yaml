@@ -5,18 +5,20 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
-font_size: L
+appearance:
+  theme: minimal
+  day_night: true
+  font: ''
+  font_size: L
 
 # SEO
 
-site_type: Organization
-local_business_type: ''
-org_name: ''
-description: Gipuzkoan ikerketa arkeologikoa garatzen duen irabazi asmorik gabeko talde kulturala
-twitter: 'Antxieta_Taldea'
+seo:
+  site_type: Organization
+  local_business_type: ''
+  org_name: ''
+  description: Gipuzkoan ikerketa arkeologikoa garatzen duen irabazi asmorik gabeko talde kulturala
+  twitter: 'Antxieta_Taldea'
 
 # Contact (edit or remove options as required)
 
@@ -60,29 +62,43 @@ contact_links:
 
 # Site header
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '&copy; {year} Antxieta Arkeologi Taldea'
+    license:
+      enable: true
+      allow_derivatives: true
+      share_alike: true
+      allow_commercial: true
 
 # Localization
 
-date_format: '2006-01-02'
-time_format: '15:04'
-address_format: en-us
+locale:
+  date_format: '2006-01-02'
+  time_format: '15:04'
+  address_format: en-us
 
 # Site features
 
+features:
+  privacy_pack: true
 highlight: true
 highlight_languages:
   - r
 math: false
 diagram: false
-privacy_pack: true
 edit_page:
   repo_url: 'https://github.com/juletx/antxieta-arkeologi-taldea'
   content_dir: ''
@@ -102,12 +118,6 @@ reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true
-copyright_license:
-  enable: true
-  allow_derivatives: true
-  share_alike: true
-  allow_commercial: true
-  notice: 'Lizentzia: {license}'
 abstract_length: 135
 plugins_js: []
 avatar:
