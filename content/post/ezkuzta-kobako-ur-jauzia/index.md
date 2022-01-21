@@ -34,18 +34,23 @@ projects: []
 Goi paleolitoko aztarnategi bikaina daukan koba honetatik, ur jauzi edo surgentzia indartsua irteten du, euriak gelditu eta astebete igaro ta gero ere.
 Izarraitzeko sistema karstikoak ur poltsa handiak dauzka bere barnean.
 
+![Ezkuzta kobako ur jauzia](media/1.jpg)
+![Ezkuzta kobako ur jauzia](media/2.jpg)
+![Ezkuzta kobako ur jauzia](media/3.jpg)
+![Ezkuzta kobako ur jauzia](media/4.jpg)
+
 Koba barru barrutik irteten du urak izugarrizko indarrarekin.
 
-![Ezkuzta kobako ur jauzia](media/1.jpg)
+{{< video src="media/1.mp4" controls="yes" >}}
 
 Ura indarrarekin lehertuta apar zuri bihurtzen da.
 
-![Ezkuzta kobako ur jauzia](media/2.jpg)
+{{< video src="media/2.mp4" controls="yes" >}}
 
 Kobatik irten eta berehala abiatzen da haitzetatik behera Urola ibaiaren bila.
 
-![Ezkuzta kobako ur jauzia](media/3.jpg)
+{{< video src="media/3.mp4" controls="yes" >}}
 
 Urari begiratu ezkero Murumendiko Marik sorginduta bezala gelditzen zara.
 
-![Ezkuzta kobako ur jauzia](media/4.jpg)
+{{< video src="media/4.mp4" controls="yes" >}}
