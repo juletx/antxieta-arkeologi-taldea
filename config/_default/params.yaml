@@ -103,6 +103,10 @@ locale:
 features:
   privacy_pack:
     enable: true
+  map:
+    provider: ''
+    api_key: ''
+    zoom: 16
 highlight: true
 highlight_languages:
   - r
@@ -156,13 +160,9 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
-map:
-  provider: ''
-  api_key: ''
-  zoom: 16
 cms:
   branch: master
   local_backend: false
-icon:
-  pack:
-    ai: true
+extensions:
+  academicons:
+    enable: false
