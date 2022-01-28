@@ -13,12 +13,20 @@ appearance:
 
 # SEO
 
-seo:
-  site_type: Organization
-  local_business_type: ''
-  org_name: ''
-  description: Gipuzkoan ikerketa arkeologikoa garatzen duen irabazi asmorik gabeko talde kulturala
-  twitter: 'Antxieta_Taldea'
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: ''
+    description: Gipuzkoan ikerketa arkeologikoa garatzen duen irabazi asmorik gabeko talde kulturala
+    twitter: 'Antxieta_Taldea'
+  analytics:
+    google_analytics: ''
+    google_tag_manager: GTM-PF2DP4T
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Contact (edit or remove options as required)
 
@@ -93,7 +101,8 @@ locale:
 # Site features
 
 features:
-  privacy_pack: true
+  privacy_pack:
+    enable: true
 highlight: true
 highlight_languages:
   - r
@@ -135,12 +144,6 @@ breadcrumb:
     book: true
 comments:
   provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
   disqus:
     shortname: ''
     show_count: true
@@ -157,12 +160,6 @@ map:
   provider: ''
   api_key: ''
   zoom: 16
-marketing:
-  google_analytics: ''
-  google_tag_manager: GTM-PF2DP4T
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
 cms:
   branch: master
   local_backend: false
