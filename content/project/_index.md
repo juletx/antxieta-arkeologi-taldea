@@ -8,4 +8,6 @@ header:
   image: ""
 
 view: card
+cascade:
+  show_breadcrumb: true
 ---

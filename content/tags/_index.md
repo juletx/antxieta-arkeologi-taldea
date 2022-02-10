@@ -11,4 +11,5 @@ view: compact
 
 cascade:
   view: card
+  show_breadcrumb: true
 ---

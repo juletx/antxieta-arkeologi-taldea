@@ -12,4 +12,7 @@ view: card
 header:
   caption: ""
   image: ""
+
+cascade:
+  show_breadcrumb: true
 ---
