@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Idazkaria
+role: Partaidea
 
 # Organizations/Affiliations
 organizations: 
