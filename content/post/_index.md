@@ -15,4 +15,5 @@ header:
 
 cascade:
   show_breadcrumb: true
+  show_related: true
 ---

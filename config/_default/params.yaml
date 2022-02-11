@@ -101,68 +101,64 @@ locale:
 # Site features
 
 features:
+  syntax_highlighter:
+    enable: false
+    extra_languages:
+      - r
+  math:
+    enable: false
+  diagram:
+    enable: false
   privacy_pack:
     enable: true
+  repository:
+    url: 'https://github.com/juletx/antxieta-arkeologi-taldea'
+    content_dir: content
+    branch: master
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
   map:
     provider: ''
     api_key: ''
     zoom: 16
-highlight: true
-highlight_languages:
-  - r
-math: false
-diagram: false
-edit_page:
-  repo_url: 'https://github.com/juletx/antxieta-arkeologi-taldea'
-  content_dir: ''
-  repo_branch: master
-  editable:
-    page: false
-    post: false
-    book: false
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
+
 reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true
 abstract_length: 135
 plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
 publications:
   date_format: January 2006
   citation_style: apa
 projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
-cms:
-  branch: master
-  local_backend: false
+  post_view: 'card'
+  publication_view: 'card'
+  talk_view: 'card'
+
+# Site extensions
+
 extensions:
+  cms:
+    branch: master
+    local_backend: false
+  isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
   academicons:
     enable: false
