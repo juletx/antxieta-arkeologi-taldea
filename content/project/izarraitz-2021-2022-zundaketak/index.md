@@ -10,6 +10,7 @@ tags:
 - Asurtzu
 - Erlo
 - Azpeitia
+- Zundaketak
 categories: []
 date: 2021-07-03
 

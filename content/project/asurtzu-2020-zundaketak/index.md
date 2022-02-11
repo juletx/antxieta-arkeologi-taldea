@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Asurtzu 2020"
-summary: "Aire libreko ikerketa arkeologikoak Asurtzun."
+title: "Asurtzu 2020 Zundaketak"
+summary: "Aire libreko zundaketa arkeologikoak Asurtzun."
 authors: []
 tags: 
 - Aire Librea
@@ -10,6 +10,7 @@ tags:
 - Erlo
 - Azpeitia
 - Izarraitz
+- Zundaketak
 categories: []
 date: 2020-04-20
 

@@ -29,6 +29,10 @@ content:
     tag: '*'
   - name: Izarraitz
     tag: Izarraitz
+  - name: Zundaketak
+    tag: Zundaketak
+  - name: Indusketak
+    tag: Indusketak
   - name: Miaketak
     tag: Miaketak
   - name: Dibulgazioa

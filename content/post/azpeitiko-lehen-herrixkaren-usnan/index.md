@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- asurtzu-2020
+- asurtzu-2020-zundaketak
 ---
 
 Denok galdetu izan diogu geure buruari okasioren batean nondik gatozen, zein garen, noiz eta nola sortu ginen edo zertarako gauden hemen. Gizakiak berezkoa du bere buruari erantzunik ez duten galderak egiteko ohitura, eta gehienetan oso zaila izan ohi da halako galderei erantzuna topatzea. Arkeologoek, historialariek eta bestelako adituek, ordea, lehen gizakia nola bizi zen eta haien ohiturak eta egunerokotasuna nolakoak ziren jakiteko baliabideak dituzte; horren erakusle da, besteak beste, Azpeitiko Antxieta Arkeologia Taldeak egiten duen lana.

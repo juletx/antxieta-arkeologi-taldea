@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- asurtzu-2020
+- asurtzu-2020-zundaketak
 ---
 
 Asurtzu zonaldeko ikerketa berria du eskuartean Azpeitiko Antxieta Arkeologia Taldeak, eta dagoeneko hasi dira proiektua gauzatzen. Erloko puntatik oso gertu dagoen aztarnategia da Asurtzu, eta Antxietako kideen arabera, baliteke Azpeitiko lehen herrixka bertan izatea. Urte honen hasieran epe luzerako proiektu bat aurkeztu zioten Azpeitiko Udalari, eta udalak proiektua onartu ondoren, Gipuzkoako Foru Aldundiaren baimenak lortu eta proiektua martxan jarri zuten. Hain zuzen ere, joan zen igandean hasi ziren indusketekin. Besteak beste, leku horretan nor bizi zen, han zergatik bizi ziren eta beraien bizimodua nolakoa zen jakin nahi dute.

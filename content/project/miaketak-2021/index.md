@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Miaketak 2021"
-summary: "Labarretako arte miaketak eta arkeologi miaketa orokorrak Urola, Deba eta Oriako bailaratan."
+summary: "LABAR ARTEA miaketa sistematikoak eta ARKEOLOGIA miaketa orokorrak Urola, Deba eta Oriako bailaratan."
 authors: []
 tags: 
 - Miaketak
@@ -41,4 +41,4 @@ url_video: ""
 slides: ""
 ---
 
-Labarretako arte miaketak eta arkeologi miaketa orokorrak Urola, Deba eta Oriako bailaratan.
+LABAR ARTEA miaketa sistematikoak eta ARKEOLOGIA miaketa orokorrak Urola, Deba eta Oriako bailaratan.

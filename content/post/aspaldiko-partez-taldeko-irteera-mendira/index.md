@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- asurtzu-2020
+- asurtzu-2020-zundaketak
 ---
 
 Mendira lehen irteerak prestatzen hasiak gera.
