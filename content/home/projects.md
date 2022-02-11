@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: Denak
     tag: '*'
-  - name: Aire Librea
-    tag: Aire Librea
+  - name: Izarraitz
+    tag: Izarraitz
   - name: Miaketak
     tag: Miaketak
   - name: Dibulgazioa

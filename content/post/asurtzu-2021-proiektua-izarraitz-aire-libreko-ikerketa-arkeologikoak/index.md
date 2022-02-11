@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- izarraitz-2021-2022
+- izarraitz-2021-2022-zundaketak
 ---
 
 Abuztuaren 23tik 27ra, Valladolideko (Gaztela eta Leon, Espainia) unibertsitateko kideekin ikerketak hasi ditugu. Horiek irailean jarraituko dute lanekin Antxieta taldearen laguntza osoarekin.

@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- izarraitz-2021-2022
+- izarraitz-2021-2022-zundaketak
 ---
 
 Gipuzkoako Foru Aldundiaren lanerako baimenak iritsi dira, eta orain gauzak ondo prestatzea tokatzen zaigu, irailean lanari gogor ekiteko. Lehenengo, Asurtzu-4 zonaldean egindako zundaketen estratigrafia bat berbegiratzen ari gara; izan ere, estratigrafiaren sekuentzia oso garrantzitsua da aztarnategia ulertzeko.

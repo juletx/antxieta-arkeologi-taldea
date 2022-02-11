@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- izarraitz-2021-2022
+- izarraitz-2021-2022-zundaketak
 ---
 
 Urtarrileko azken elurteak politak izan dira, baina Izarraizko eremu askotako zuhaitzetan kristoren kalteak eragin ditu. Gutxi falta izan da gu azpian harrapatu eta ikertzen ari garen gizakiak bezala seko gelditzeko.

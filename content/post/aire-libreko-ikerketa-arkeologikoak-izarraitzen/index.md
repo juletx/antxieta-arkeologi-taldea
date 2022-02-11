@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- izarraitz-2021-2022
+- izarraitz-2021-2022-zundaketak
 ---
 
 Zer altxor ezkutatzen du Izarraitzek? 2006-2007an Ikulluteko gaina aztertu genuen; 2013 eta 2020 artean Asurtzu eremua; eta 2021-2022 urteetan Izarraizko eremuan zabaltzen ari gara.
