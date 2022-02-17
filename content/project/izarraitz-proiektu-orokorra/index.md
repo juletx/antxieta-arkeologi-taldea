@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Izarraitz Proiektu Orokorra"
-summary: "Izarraitz diziplina anitzeko epe luzerako proiektu bat da: Geologia eta Mineralogia, Arkeologia eta Paleontologia, Biologia eta Paleobotanika, Etnografia eta Historia."
+title: "IZARRAITZ Proiektu Orokorra"
+summary: "IZARRAITZ diziplina anitzeko epe luzerako proiektu bat da: Geologia eta Mineralogia, Arkeologia eta Paleontologia, Biologia eta Paleobotanika, Etnografia eta Historia."
 authors: []
 tags:
 - Izarraitz

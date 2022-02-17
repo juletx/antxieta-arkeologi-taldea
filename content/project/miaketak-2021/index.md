@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Miaketak 2021"
+title: "Miaketak 2021 Laburpena"
 summary: "LABAR ARTEA miaketa sistematikoak eta ARKEOLOGIA miaketa orokorrak Urola, Deba eta Oriako bailaratan."
 authors: []
 tags: 
@@ -23,7 +23,7 @@ image:
   preview_only: false
 
 links:
-- name: Proiektua
+- name: Laburpena
   url: media/2021 - LABAR ARTEA Miaketa sistematikoak eta ARKEOLOGI miaketa orokorrak - Lanaren laburpena.pdf
   icon_pack: fas
   icon: file-pdf

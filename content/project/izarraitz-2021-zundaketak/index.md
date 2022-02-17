@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Izarraitz 2021 Zundaketak
-summary: Aire libreko zundaketa arkeologikoak Izarraitz mendilerroan.
+title: IZARRAITZ 2021 Zundaketak Laburpena
+summary: Aire libreko zundaketa arkeologikoak IZARRAITZ mendilerroan.
 authors: []
 tags: 
 - Izarraitz
@@ -26,7 +26,7 @@ image:
   preview_only: false
 
 links:
-- name: Proiektua
+- name: Laburpena
   url: media/2021 - IZARRAITZ - Zundaketak - Lanaren laburpena.pdf
   icon_pack: fas
   icon: file-pdf

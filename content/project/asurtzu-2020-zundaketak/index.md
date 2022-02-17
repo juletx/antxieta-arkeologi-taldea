@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Asurtzu 2020 Zundaketak"
-summary: "Aire libreko zundaketa arkeologikoak Asurtzun."
+title: "ASURTZU 2020 Zundaketak"
+summary: "Aire libreko zundaketa arkeologikoak ASURTZUn."
 authors: []
 tags: 
 - Aire Librea
@@ -44,4 +44,4 @@ url_video: ""
 slides: ""
 ---
 
-Aire libreko ikerketa arkeologikoak Asurtzun.
+Aire libreko ikerketa arkeologikoak ASURTZUn.

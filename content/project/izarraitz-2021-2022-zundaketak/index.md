@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Izarraitz 2021-2022 Zundaketak
-summary: Aire libreko zundaketa arkeologikoak Izarraitz mendilerroan.
+title: IZARRAITZ 2021-2022 Zundaketak
+summary: Aire libreko zundaketa arkeologikoak IZARRAITZ mendilerroan.
 authors: []
 tags: 
 - Izarraitz
@@ -44,4 +44,4 @@ url_video: ""
 slides: ""
 ---
 
-Aire libreko zundaketa arkeologikoak Izarraitz mendilerroan.
+Aire libreko zundaketa arkeologikoak IZARRAITZ mendilerroan.

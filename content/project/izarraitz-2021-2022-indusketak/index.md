@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Izarraitz 2021-2022 Indusketak
-summary: Aire libreko indusketa arkeologikoak Izarraitz mendilerroan.
+title: IZARRAITZ 2021-2022 Indusketak
+summary: Aire libreko indusketa arkeologikoak IZARRAITZ mendilerroan.
 authors: []
 tags: 
 - Izarraitz
@@ -12,7 +12,7 @@ tags:
 - Azpeitia
 - Indusketak
 categories: []
-date: 2021-07-03
+date: 2022-02-17
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -44,4 +44,4 @@ url_video: ""
 slides: ""
 ---
 
-Aire libreko indusketa arkeologikoak Izarraitz mendilerroan.
+Aire libreko indusketa arkeologikoak IZARRAITZ mendilerroan.
