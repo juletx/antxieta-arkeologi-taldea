@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: '<i class=''fas fa-landmark''></i>&nbsp;Historia'
-subtitle: "Gehiago jakiteko irakurri [ANTXIETA arkeologi taldea: 50 urte lanean gozatuz](uploads/ANTXIETA-50%20urte%20Liburua-Konprimiuta.pdf) liburua."
+subtitle: ""
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -242,13 +242,10 @@ experience:
     Gaur egun, Antxieta Arkeologi Taldea Maria
     Jose Iriarte eta Alvaro Arrizabalagak zuzentzen
     dute, Aranzadi Zientzia Elkarteko kideak.
-
-- title: Gaur egun
-  company: Antxieta Arkeologi Taldea
-  company_url: ''
-  company_logo: ''
-  location: ''
-  date_start: '2016-01-01'
-  date_end: ''
-  description: ''
 ---
+
+<div class="d-flex justify-content-center">
+<a href="uploads/ANTXIETA-50%20urte%20Liburua-Konprimiuta.pdf" target="_blank">
+{{< figure src="historia/featured.jpg" caption="[ANTXIETA arkeologi taldea: 50 urte lanean gozatuz](uploads/ANTXIETA-50%20urte%20Liburua-Konprimiuta.pdf) liburua." lightbox="false" >}}
+</a>
+</div>
