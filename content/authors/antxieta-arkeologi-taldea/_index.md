@@ -76,10 +76,10 @@ user_groups: []
 highlight_name: true
 ---
 
-Antxieta Arkeologi Taldea gipuzkoan ikerketa arkeologikoa garatzen duen irabazi asmorik gabeko talde kulturala da.
+Antxieta Arkeologi Taldea Gipuzkoan ikerketa arkeologikoa garatzen dugun irabazi asmorik gabeko talde kulturala gara.
 
-Gure lana aurrehistoriako arrastoen aurkikuntzan oinarritzen da, bai haitzuloetan, baita aire librean ere. Gipuzkoako Foru Aldundiaren baimenarekin ikerketako lehen fasean murgiltzen gara. Hau da, mendian miaketak eta zundaketak egin, laginak eta materialak analizatu eta azterketa bat egiten dugu, aurkikuntzaren ezaugarriak neurtzeko. Behin-behineko estratigrafia finkatzen dugu material arkeologikoekin eta laginekin.
+Gure lana aurrehistoriako arrastoen aurkikuntzan oinarritzen da, bai haitzuloetan, baita aire librean ere. Gipuzkoako Foru Aldundiaren baimenarekin ikerketako lehen fasean murgiltzen gara. Hau da, gure inguruetako aran eta mendietan miaketak eta zundaketak egin, laginak eta materialak analizatu eta azterketa orokor bat egiten diegu, aurkikuntzaren ezaugarriak neurtzeko. Behin-behineko estratigrafia ere finkatzen dugu material arkeologikoekin eta laginekin.
 
-Lan hau arkeologo aditu batek zuzendaritzapean egiten dugu. Ikerketaren lehen fasea amaitzean, material guztiak siglatu eta inbentariatzen dira. Ondoren, Gordailura entregatzen dira, Gipuzkoako Foru Aldundiaren arkeologia ondarearen gordetegia, dagokien katalogazio ofiziala egiteko eta beste ikerlarien eskura egoteko, informazio eta txosten guztiekin batera.
+Lan hau arkeologo aditu baten zuzendaritzapean eta elkarlanean egiten dugu. Ikerketaren lehen fasea amaitzean, material guztiak siglatu eta inbentariatzen dira. Ondoren, Gordailura entregatzen dira, Gipuzkoako Foru Aldundiaren arkeologia ondarearen gordetegia, dagokien katalogazio ofiziala egiteko eta ikerlari guztien eskura egoteko, informazio eta txosten guztiekin batera.
 
 Taldearen inguruko datu orokorrak jakiteko ikusi [Aurkezpen orria](uploads/Antxieta%20Arkeologi%20Taldea.pdf). Webgune honetan taldearen [<i class='fas fa-edit'></i>&nbsp;Bloga](#posts), [<i class='fas fa-code'></i>&nbsp;Proiektuak](#projects), [<i class='fas fa-tags'></i>&nbsp;Etiketak](#tags), [<i class='fas fa-tags'></i>&nbsp;Historia](#history), [<i class='fas fa-landmark'></i>&nbsp;Aurkikuntzak](#findings), [<i class='fas fa-users'></i>&nbsp;Taldea](#people) eta [<i class='fas fa-envelope'></i>&nbsp;Kontaktua](#contact) agertzen dira.
