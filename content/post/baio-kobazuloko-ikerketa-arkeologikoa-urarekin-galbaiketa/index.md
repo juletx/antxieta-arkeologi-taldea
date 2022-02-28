@@ -42,4 +42,4 @@ Sorpresa ugari ematen ari da eta gehiago emango dituzte epe laburrean ikerketa h
 
 Adi egon albisteekin!
 
-{{< tweet 1494990383201370114 >}}
+{{< tweet user="AsierGOlivencia" id="1494990383201370114" >}}
