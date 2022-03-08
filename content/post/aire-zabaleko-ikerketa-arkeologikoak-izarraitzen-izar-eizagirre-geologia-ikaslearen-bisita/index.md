@@ -30,7 +30,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: 
+- izarraitz-2021-2022-zundaketak
 ---
 
 Larunbata, otsailak 26. Hotz egiten du oraindik 1.000 metrora.
