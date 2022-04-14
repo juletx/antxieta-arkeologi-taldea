@@ -24,6 +24,46 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
+
+  # Contact (edit or remove options as required)
+
+  email: antxieta.arkeologi.taldea@outlook.com
+  phone: 608 08 70 24
+  address:
+    street: Antxieta Arkeologia Taldea bulegoa<br> Soreasu 1. Kulturgunea
+    city: Azpeitia
+    region: Gipuzkoa
+    postcode: '20730'
+    country: Espainia
+    country_code: ES
+  coordinates:
+    latitude: '43.1867'
+    longitude: '-2.2639'
+  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  office_hours:
+    - 'Asteartea 21:00-23:00 bulegoan'
+  # appointment_url: 'https://calendly.com'
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: Twitter
+      link: 'https://twitter.com/Antxieta_Taldea'
+    - icon: instagram
+      icon_pack: fab
+      name: Instagram
+      link: 'https://www.instagram.com/antxieta_arkeologi_taldea'
+    - icon: youtube
+      icon_pack: fab
+      name: YouTube
+      link: 'https://www.youtube.com/channel/UCWUlFhZBxXqodnvo7FVSkuw'
+    - icon: newspaper
+      icon_pack: fas
+      name: Uztarria
+      link: 'https://uztarria.eus/komunitatea/antxietaarkeologia'
+    - icon: newspaper
+      icon_pack: fas
+      name: Danbolin
+      link: 'https://danbolin.eus/category/antxieta-arkeologia-taldea'
   
 design:
   columns: '1'
