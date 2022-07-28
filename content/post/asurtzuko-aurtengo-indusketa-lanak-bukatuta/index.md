@@ -30,7 +30,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: 
+- izarraitz-2021-2022-indusketak
 ---
 
 Aste honetan bukatu ditugu Asurtzu eremuko 2022ko aire zabaleko indusketa lanak. Lan gogorra izan da benetan, batez ere eguraldiak indusketa uraren azpian hartzeko egin duen ahaleginagatik. Valladolideko unibertsitateko gazteek, baina, nahiko ondo heldu diote eguraldi traketsari.
