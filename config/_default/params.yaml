@@ -62,9 +62,8 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
-    extra_languages:
-      - r
+    theme_light: github-light
+    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
@@ -83,6 +82,11 @@ features:
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -90,6 +94,10 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
+    docsearch:
+      app_id: ''
+      api_key: ''
+      index_name: ''
   map:
     provider: ''
     api_key: ''
