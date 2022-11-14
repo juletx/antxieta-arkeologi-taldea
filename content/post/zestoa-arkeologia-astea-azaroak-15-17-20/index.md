@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Zestoako Arkeologia Astea egingo dute azaroaren 15etik 20ra"
+title: "Zestoako Arkeologia Astea egingo dugu azaroaren 15etik 20ra"
 subtitle: ""
 summary: "Zestoako Udalak antolatu du egitasmoa, eta hilaren 15etik 20ra bitartean, herritarrek Amalda III haitzuloari, Baioko eta Amabiturrietako aztarnategiari edota Antxieta arkeologia taldearen jardunari buruz gehiago jakiteko aukera izango dute."
 authors: []
