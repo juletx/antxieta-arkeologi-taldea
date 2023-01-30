@@ -33,6 +33,10 @@ experience:
   date_start: '1965-01-01'
   date_end: '1975-01-01'
   description: |2-
+    ![Dena egiteko dagoenean EKAIN aurkitzen dute](uploads/history/1.jpg)
+    ![Dena egiteko dagoenean EKAIN aurkitzen dute](uploads/history/2.jpg)
+    ![Dena egiteko dagoenean EKAIN aurkitzen dute](uploads/history/3.jpg)
+
     Antxieta Arkeologi Taldearen istorioa Andoni
     Albizuri eta Rafael Rezabalekin hasten da
     1965. urtean.
@@ -78,6 +82,10 @@ experience:
   date_start: '1976-01-01'
   date_end: '1985-01-01'
   description: |2-
+    ![Gazte gogotsuen sarrera, aurkikuntza kopurua handitzen da](uploads/history/4.jpg)
+    ![Gazte gogotsuen sarrera, aurkikuntza kopurua handitzen da](uploads/history/5.jpg)
+    ![Gazte gogotsuen sarrera, aurkikuntza kopurua handitzen da](uploads/history/6.jpg)
+    
     Andoni eta Rafaelek beraien aurkikuntzekin
     jarraitzen dute, ez antzinako aztarnenak
     bakarrik, baizik eta gazte gogotsuenak, hamar
@@ -134,6 +142,10 @@ experience:
   date_start: '1986-01-01'
   date_end: '1995-01-01'
   description: |2-
+    ![Taldearen eta proiektuaren bermatzea](uploads/history/7.jpg)
+    ![Taldearen eta proiektuaren bermatzea](uploads/history/8.jpg)
+    ![Taldearen eta proiektuaren bermatzea](uploads/history/9.jpg)
+    
     Antxieta Arkeologi Taldeak 20 urteko historia
     du jada eta bere hirugarren hamarkada
     sendotasunez hasten du, ezagutza handiago
@@ -182,6 +194,10 @@ experience:
   date_start: '1996-01-01'
   date_end: '2005-01-01'
   description: |2-
+    ![Irikaitzek aztarnen aurkikuntzen eboluzioa irudikatzen du](uploads/history/10.jpg)
+    ![Irikaitzek aztarnen aurkikuntzen eboluzioa irudikatzen du](uploads/history/11.jpg)
+    ![Irikaitzek aztarnen aurkikuntzen eboluzioa irudikatzen du](uploads/history/12.jpg)
+
     Jasotako esperientziak fruitu berriak ematen
     ditu. Taldearen aurkikuntzak aire librean
     zundaketak egitera zuzentzen ditu, kobetan
@@ -219,6 +235,10 @@ experience:
   date_start: '2006-01-01'
   date_end: '2015-01-01'
   description: |2-
+    ![Aztarnategien ugaritasuna, begiratzen jakin behar da](uploads/history/13.jpg)
+    ![Aztarnategien ugaritasuna, begiratzen jakin behar da](uploads/history/14.jpg)
+    ![Aztarnategien ugaritasuna, begiratzen jakin behar da](uploads/history/15.jpg)
+
     Denborak arrazoia eman eta kendu egiten du.
     Kasu honetan, taldekideen alde dago, gure
     geografian arrasto arkeologiko ugari daudela
