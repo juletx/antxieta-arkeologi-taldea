@@ -11,6 +11,7 @@ tags:
 - Baio
 - Amabiturrieta
 - Kobazuloak
+- Neandertalak
 categories: []
 date: 2023-11-19
 lastmod: ""
