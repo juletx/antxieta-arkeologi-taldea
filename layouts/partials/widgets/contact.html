@@ -25,7 +25,7 @@
     {{ else if $use_formspree_form }}
       {{ if not $st.Params.content.form.formspree.id }}
         {{ errorf "You have chosen to use Formspree as the provider for the contact form. Please set your Formspree Form ID in the Contact widget or disable the form." }}
-        {{ errorf "Documentation: https://wowchemy.com/docs/page-builder/#contact" }}
+        {{ errorf "Documentation: https://blox.com/docs/page-builder/#contact" }}
       {{ end }}
       {{ $post_action = printf "action=\"https://formspree.io/f/%s\"" $st.Params.content.form.formspree.id }}
     {{end}}
