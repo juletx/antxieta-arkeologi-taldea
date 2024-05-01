@@ -465,7 +465,7 @@ sections:
       email: antxieta.arkeologi.taldea@outlook.com
       phone: 608 08 70 24
       address:
-        street: Antxieta Arkeologia Taldea bulegoa<br> Soreasu 1. Kulturgunea
+        street: Antxieta Arkeologia Taldea bulegoa, Soreasu 1. Kulturgunea
         city: Azpeitia
         region: Gipuzkoa
         postcode: '20730'
