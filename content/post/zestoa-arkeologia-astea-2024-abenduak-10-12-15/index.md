@@ -3,7 +3,7 @@
 
 title: "Zestoako Arkeologia Astea egingo dugu abenduaren 10etik 15era"
 subtitle: ""
-summary: "Zestoako Udalak antolatu du egitasmoa, eta hilaren 10etik 15era bitartean, herritarrek Amalda III haitzuloari, Baioko eta Amabiturrietako aztarnategiari edota Antxieta arkeologia taldearen jardunari buruz gehiago jakiteko aukera izango dute."
+summary: "Zestoako Udalak antolatu du egitasmoa, eta hilaren 10etik 15era bitartean, herritarrek Urola bailarako lehen gizakiei eta Antxieta arkeologia taldearen jardunari buruz gehiago jakiteko aukera izango dute."
 authors: []
 tags: 
 - Zestoa
@@ -35,7 +35,7 @@ projects: []
 
 Datorren astean, guztiok Zestoara!
 
-Abenduak 10 asteartean Asier Gomez Olivencia etorriko zaigu Urola bailarako lehenengo gizakien berri ematera, Georgiatik Zestoara, Atapuercatik pasatuz; lehenengo gizakien zantzuak bilatzen Urolako bailaran. Zestoako Alondero udal aretoan 19:00etan.
+Abenduak 10 asteartean Asier Gomez Olivencia etorriko zaigu Urola bailarako lehenengo gizakien berri ematera, Georgiatik Zestoara, Atapuercatik pasatuz. Zestoako Alondero udal aretoan 19:00etan.
 Ez galdu!
 
 ![Asier Gomez Olivencia](media/Asier-Gomez.jpg)
