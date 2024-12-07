@@ -7,9 +7,9 @@ summary: "Zestoako Udalak antolatu du egitasmoa, eta hilaren 10etik 15era bitart
 authors: []
 tags: 
 - Zestoa
-- Amalda III
-- Baio
-- Amabiturrieta
+- Neandertalak
+- Urola
+- Euskal Herria
 - Kobazuloak
 categories: []
 date: 2024-12-07
