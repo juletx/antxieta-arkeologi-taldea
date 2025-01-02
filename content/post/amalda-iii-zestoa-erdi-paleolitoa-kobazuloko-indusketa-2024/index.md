@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Amalda III Erdi Paleolioko kobazuloko indusketa 2024: Zestoako Neandertalen bizimodua ikertzen"
+title: "Amalda III Erdi Paleolitoko kobazuloko indusketa 2024: Zestoako Neandertalen bizimodua ikertzen"
 subtitle: ""
 summary: ""
 authors: []
