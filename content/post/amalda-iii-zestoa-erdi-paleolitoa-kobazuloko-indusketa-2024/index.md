@@ -49,7 +49,7 @@ Lehengo zubi zaharra uholdeak eman du eta berria moldatu beharra eduki dugu.
 ![Amalda III kobazuloko indusketa 2024](media/3.jpg)
 ![Amalda III kobazuloko indusketa 2024](media/4.jpg)
 
-6. indusketa kanpaina honetan, IV nibel estratigrafikoaren bukaera iritsi gera lauki guztietan.
+Seigarren indusketa kanpaina honetan, IV nibel estratigrafikoaren bukaera iritsi gera lauki guztietan.
 
 Aurreko urteetan bezala, material arkeologikoen dentsitate handia dago, bai litika aldetik eta
 baita ere animalien hezur zatien aldetik ere.
