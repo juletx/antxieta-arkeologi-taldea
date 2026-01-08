@@ -7,7 +7,7 @@ main:
     url: '/#bloga'
     weight: 20
   - name: Proiektuak
-    url: '#proiektuak'
+    url: '/#proiektuak'
     weight: 30
   - name: Etiketak
     url: '/#etiketak'

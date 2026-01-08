@@ -36,7 +36,7 @@ sections:
           url: "#historia"
           icon: book-open
         - text: Taldea
-          url: "#people"
+          url: "#taldea"
           icon: user-group
     design:
       style: centered

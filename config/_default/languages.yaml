@@ -18,5 +18,5 @@ eu:
 #  menu:
 #    main:
 #      - name: 传
-#        url: '#about'
+#        url: '/#about'
 #        weight: 1
