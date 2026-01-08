@@ -12,23 +12,26 @@ sections:
       username: antxieta-arkeologi-taldea
       greeting: ""
       show_status: true
-      show_scroll_indicator: true
+      show_scroll_indicator: false
       typewriter:
         enable: true
-        prefix: "Ikerketa egiten dugu"
+        prefix: "Ikerketa arkeologikoak egiten ditugu:"
         strings:
-          - "kobazuloetan"
-          - "aire librean"
-          - "miaketak"
-          - "zundaketak"
-          - "indusketak"
+          - "Kobazuloetan"
+          - "Aire librean"
+          - "Miaketak"
+          - "Zundaketak"
+          - "Indusketak"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
       cta_buttons:
+        - text: Bloga
+          url: "#bloga"
+          icon: arrow-down
         - text: Proiektuak
           url: "#proiektuak"
-          icon: arrow-down
+          icon: briefcase
         - text: Historia
           url: "#historia"
           icon: book-open
