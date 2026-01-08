@@ -3,38 +3,24 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 main:
-#  - name: Aurkezpena
-#    url: '#about'
-#    weight: 10
-#    pre: <i class='fas fa-book'></i>&nbsp;
   - name: Bloga
-    url: '#posts'
+    url: '#bloga'
     weight: 20
-    pre: <i class='fas fa-edit'></i>&nbsp;
   - name: Proiektuak
-    url: '#projects'
+    url: '#proiektuak'
     weight: 30
-    pre: <i class='fas fa-code'></i>&nbsp;
   - name: Etiketak
-    url: '#tags'
+    url: '#etiketak'
     weight: 40
-    pre: <i class='fas fa-tags'></i>&nbsp;
   - name: Historia
-    url: '#history'
+    url: '#historia'
     weight: 50
-    pre: <i class='fas fa-landmark'></i>&nbsp;
-  - name: Aurkikuntzak
-    url: '#findings'
-    weight: 55
-    pre: <i class='fas fa-search-location'></i>&nbsp;
   - name: Taldea
-    url: '#people'
+    url: '#taldea'
     weight: 60
-    pre: <i class='fas fa-users'></i>&nbsp;
   - name: Kontaktua
-    url: '#contact'
+    url: '#kontaktua'
     weight: 70
-    pre: <i class='fas fa-envelope'></i>&nbsp;
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

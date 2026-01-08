@@ -1,127 +1,124 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# ══════════════════════════════════════════════════════════════════════════════
+# HUGO BLOX CONFIGURATION
+# Schema: hugoblox.com/schema/v2
+# Tutorial: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# ══════════════════════════════════════════════════════════════════════════════
+hugoblox:
+  schema: "2.0"
 
-# Appearance
+  # ────────────────────────────────────────────────────────────────────────────
+  # IDENTITY
+  # ────────────────────────────────────────────────────────────────────────────
+  identity:
+    name: "Antxieta Arkeologi Taldea"
+    type: organization
+    tagline: "Ikerketa arkeologikoa Gipuzkoan"
+    description: "Gipuzkoan ikerketa arkeologikoa garatzen duen irabazi asmorik gabeko talde kulturala"
+    social:
+      twitter: "Antxieta_Taldea"
 
-appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  # ────────────────────────────────────────────────────────────────────────────
+  # THEME
+  # ────────────────────────────────────────────────────────────────────────────
+  theme:
+    mode: system
+    pack: "default"
 
-# SEO
+  # ────────────────────────────────────────────────────────────────────────────
+  # TYPOGRAPHY
+  # ────────────────────────────────────────────────────────────────────────────
+  typography:
+    font: "sans"
+    size: "lg"
 
-marketing:
-  seo:
-    site_type: Organization
-    local_business_type: ''
-    org_name: 'Antxieta Arkeologi Taldea'
-    description: Gipuzkoan ikerketa arkeologikoa garatzen duen irabazi asmorik gabeko talde kulturala
-    twitter: 'Antxieta_Taldea'
-  analytics:
-    google_analytics: ''
-    google_tag_manager: GTM-PF2DP4T
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+  # ────────────────────────────────────────────────────────────────────────────
+  # LAYOUT
+  # ────────────────────────────────────────────────────────────────────────────
+  layout:
+    radius: "md"
+    spacing: "comfortable"
+    avatar_shape: circle
 
-# Site header
-
-header:
-  navbar:
+  # ────────────────────────────────────────────────────────────────────────────
+  # HEADER
+  # ────────────────────────────────────────────────────────────────────────────
+  header:
     enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: true
+    style: navbar
+    sticky: true
+    align: left
+    search: true
+    theme_toggle: true
+    theme_picker: false
+    language_switcher: false
 
-# Site footer
+  # ────────────────────────────────────────────────────────────────────────────
+  # FOOTER
+  # ────────────────────────────────────────────────────────────────────────────
+  footer:
+    style: minimal
+    language_switcher: false
+    text: "[GitHub](https://github.com/juletx/antxieta-arkeologi-taldea)-en ostatatua -
+      [Netlify](https://app.netlify.com/sites/antxieta-arkeologi-taldea/deploys)-k zerbitzatua"
 
-footer:
+  # ────────────────────────────────────────────────────────────────────────────
+  # COPYRIGHT
+  # ────────────────────────────────────────────────────────────────────────────
   copyright:
-    notice: '&copy; {year} Antxieta Arkeologi Taldea'
+    notice: "© {year} {name}. Lizentzia: {license}"
     license:
-      enable: true
+      type: cc
       allow_derivatives: true
       share_alike: true
       allow_commercial: true
 
-# Localization
+  # ────────────────────────────────────────────────────────────────────────────
+  # CONTENT
+  # ────────────────────────────────────────────────────────────────────────────
+  content:
+    math:
+      enable: false
 
-locale:
-  date_format: '2006-01-02'
-  time_format: '15:04'
-  address_format: en-us
-
-# Site features
-
-features:
-  syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
-  math:
-    enable: false
-  privacy_pack:
-    enable: true
-  repository:
-    url: 'https://github.com/juletx/antxieta-arkeologi-taldea'
-    content_dir: content
-    branch: master
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+  # ────────────────────────────────────────────────────────────────────────────
+  # SEARCH
+  # ────────────────────────────────────────────────────────────────────────────
   search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-    docsearch:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 16
+    enable: true
 
-reading_time: false
-section_pager: false
-docs_section_pager: true
-sharing: true
-abstract_length: 135
-plugins_js: []
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 'card'
-  publication_view: 'card'
-  talk_view: 'card'
-
-# Site extensions
-
-extensions:
-  decap_cms:
-    branch: master
-    local_backend: false
-  academicons:
+  # ────────────────────────────────────────────────────────────────────────────
+  # COMMENTS
+  # ────────────────────────────────────────────────────────────────────────────
+  comments:
     enable: false
+
+  # ────────────────────────────────────────────────────────────────────────────
+  # ANALYTICS
+  # ────────────────────────────────────────────────────────────────────────────
+  analytics:
+    google_tag_manager:
+      container_id: "GTM-PF2DP4T"
+
+  # ────────────────────────────────────────────────────────────────────────────
+  # REPOSITORY
+  # ────────────────────────────────────────────────────────────────────────────
+  repository:
+    enable: true
+    url: "https://github.com/juletx/antxieta-arkeologi-taldea"
+    branch: master
+    content_dir: content
+
+  # ────────────────────────────────────────────────────────────────────────────
+  # LOCALE
+  # ────────────────────────────────────────────────────────────────────────────
+  locale:
+    date_format: "2006-01-02"
+    time_format: "15:04"
+    address_format: en-us
+
+  # ────────────────────────────────────────────────────────────────────────────
+  # PRIVACY
+  # ────────────────────────────────────────────────────────────────────────────
+  privacy:
+    enable: true
+    anonymize_analytics: true

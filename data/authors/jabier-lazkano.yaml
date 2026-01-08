@@ -1,0 +1,9 @@
+schema: hugoblox/author/v1
+slug: jabier-lazkano
+name:
+  display: Jabier Lazkano
+role: Lehendakaria
+bio: Antxieta Arkeologi Taldeko lehendakaria.
+affiliations:
+  - name: Antxieta Arkeologi Taldea
+    url: https://antxieta-arkeologi-taldea.eus

@@ -1,0 +1,9 @@
+schema: hugoblox/author/v1
+slug: i-igo-olarte
+name:
+  display: Iñigo Olarte
+role: Partaidea
+bio: Antxieta Arkeologi Taldeko idazkaria.
+affiliations:
+  - name: Antxieta Arkeologi Taldea
+    url: https://antxieta-arkeologi-taldea.eus

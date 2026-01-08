@@ -1,0 +1,9 @@
+schema: hugoblox/author/v1
+slug: aitor-suinaga
+name:
+  display: Aitor Suinaga
+role: Partaidea
+bio: Antxieta Arkeologi Taldeko partaidea.
+affiliations:
+  - name: Antxieta Arkeologi Taldea
+    url: https://antxieta-arkeologi-taldea.eus

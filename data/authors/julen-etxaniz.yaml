@@ -1,0 +1,18 @@
+schema: hugoblox/author/v1
+slug: julen-etxaniz
+name:
+  display: Julen Etxaniz
+role: Partaidea
+bio: Antxieta Arkeologi Taldeko partaidea.
+links:
+  - icon: at-symbol
+    url: mailto:juletxara@gmail.com
+  - icon: brands/x
+    url: https://twitter.com/juletxara
+  - icon: brands/github
+    url: https://github.com/juletx
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/juletxara
+affiliations:
+  - name: Antxieta Arkeologi Taldea
+    url: https://antxieta-arkeologi-taldea.eus
