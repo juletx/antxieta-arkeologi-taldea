@@ -4,22 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 main:
   - name: Bloga
-    url: '#bloga'
+    url: '/#bloga'
     weight: 20
   - name: Proiektuak
     url: '#proiektuak'
     weight: 30
   - name: Etiketak
-    url: '#etiketak'
+    url: '/#etiketak'
     weight: 40
   - name: Historia
-    url: '#historia'
+    url: '/#historia'
     weight: 50
   - name: Taldea
-    url: '#taldea'
+    url: '/#taldea'
     weight: 60
   - name: Kontaktua
-    url: '#kontaktua'
+    url: '/#kontaktua'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.

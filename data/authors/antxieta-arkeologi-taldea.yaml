@@ -54,67 +54,67 @@ education:
     institution: Zestoa
     start: '1969-06-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/1969-ekain-zestoa-l.jpg" alt="Ekain - Zestoa" width="100%">
+      <img src="uploads/aurkikuntzak/1969-ekain-zestoa.jpg" alt="Ekain - Zestoa" width="100%">
   - degree: Erralla
     institution: Aizarna
     start: '1976-01-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/1976-erralla-aizarna-l.jpg" alt="Erralla - Aizarna" width="100%">
+      <img src="uploads/aurkikuntzak/1976-erralla-aizarna.jpg" alt="Erralla - Aizarna" width="100%">
   - degree: Ezkuzta
     institution: Azpeitia
     start: '1979-01-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/1979-ezkuzta-azpeitia-l.jpg" alt="Ezkuzta - Azpeitia" width="100%">
+      <img src="uploads/aurkikuntzak/1979-ezkuzta-azpeitia.jpg" alt="Ezkuzta - Azpeitia" width="100%">
   - degree: Amalda III
     institution: Zestoa
     start: '1983-01-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/1983-amalda-iii-zestoa-l.jpg" alt="Amalda III - Zestoa" width="100%">
+      <img src="uploads/aurkikuntzak/1983-amalda-iii-zestoa.jpg" alt="Amalda III - Zestoa" width="100%">
   - degree: Irikaitz
     institution: Zestoa
     start: '1996-01-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/1996-irikaitz-zestoa-l.jpg" alt="Irikaitz - Zestoa" width="100%">
+      <img src="uploads/aurkikuntzak/1996-irikaitz-zestoa.jpg" alt="Irikaitz - Zestoa" width="100%">
   - degree: Urkulu
     institution: Lastur
     start: '1999-01-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/1999-urkulu-lastur-l.jpg" alt="Urkulu - Lastur" width="100%">
+      <img src="uploads/aurkikuntzak/1999-urkulu-lastur.jpg" alt="Urkulu - Lastur" width="100%">
   - degree: Arnaileta
     institution: Errezil
     start: '2000-01-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/2000-arnaileta-errezil-l.jpg" alt="Arnaileta - Errezil" width="100%">
+      <img src="uploads/aurkikuntzak/2000-arnaileta-errezil.jpg" alt="Arnaileta - Errezil" width="100%">
   - degree: Danbolinzulo
     institution: Zestoa
     start: '2014-01-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/2014-danbolinzulo-zestoa-l.jpg" alt="Danbolinzulo - Zestoa" width="100%">
+      <img src="uploads/aurkikuntzak/2014-danbolinzulo-zestoa.jpg" alt="Danbolinzulo - Zestoa" width="100%">
   - degree: Erlaitz
     institution: Zestoa
     start: '2015-01-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/2015-erlaitz-zestoa-l.jpg" alt="Erlaitz - Zestoa" width="100%">
+      <img src="uploads/aurkikuntzak/2015-erlaitz-zestoa.jpg" alt="Erlaitz - Zestoa" width="100%">
   - degree: Astui Gaina
     institution: Zestoa
     start: '2016-01-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/2016-astui-gaina-zestoa-l.jpg" alt="Astui Gaina - Zestoa" width="100%">
+      <img src="uploads/aurkikuntzak/2016-astui-gaina-zestoa.jpg" alt="Astui Gaina - Zestoa" width="100%">
   - degree: Sustraixa
     institution: Deba
     start: '2017-01-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/2017-sustraixa-deba-l.jpg" alt="Sustraixa - Deba" width="100%">
+      <img src="uploads/aurkikuntzak/2017-sustraixa-deba.jpg" alt="Sustraixa - Deba" width="100%">
   - degree: Agarre
     institution: Mendaro
     start: '2018-01-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/2018-agarre-mendaro-l.jpg" alt="Agarre - Mendaro" width="100%">
+      <img src="uploads/aurkikuntzak/2018-agarre-mendaro.jpg" alt="Agarre - Mendaro" width="100%">
   - degree: Aixa
     institution: Itziar
     start: '2019-01-01'
     summary: |
-      <img src="media/albums/aurkikuntzak/2019-aixa-itziar-l.jpg" alt="Aixa - Itziar" width="100%">
+      <img src="uploads/aurkikuntzak/2019-aixa-itziar.jpg" alt="Aixa - Itziar" width="100%">
 awards: []
 experience:
   - role: Dena egiteko dagoenean EKAIN aurkitzen dute
@@ -122,11 +122,11 @@ experience:
     start: '1965-01-01'
     end: '1975-01-01'
     summary: |
-      ![Dena egiteko dagoenean EKAIN aurkitzen dute](uploads/history/1.jpg)
+      ![Dena egiteko dagoenean EKAIN aurkitzen dute](uploads/historia/1.jpg)
 
-      ![Dena egiteko dagoenean EKAIN aurkitzen dute](uploads/history/2.jpg)
+      ![Dena egiteko dagoenean EKAIN aurkitzen dute](uploads/historia/2.jpg)
 
-      ![Dena egiteko dagoenean EKAIN aurkitzen dute](uploads/history/3.jpg)
+      ![Dena egiteko dagoenean EKAIN aurkitzen dute](uploads/historia/3.jpg)
 
       Antxieta Arkeologi Taldearen istorioa Andoni
       Albizuri eta Rafael Rezabalekin hasten da 1965. urtean
@@ -168,9 +168,9 @@ experience:
     start: '1976-01-01'
     end: '1985-01-01'
     summary: |
-      ![Gazte gogotsuen sarrera, aurkikuntza kopurua handitzen da](uploads/history/4.jpg)
-      ![Gazte gogotsuen sarrera, aurkikuntza kopurua handitzen da](uploads/history/5.jpg)
-      ![Gazte gogotsuen sarrera, aurkikuntza kopurua handitzen da](uploads/history/6.jpg)
+      ![Gazte gogotsuen sarrera, aurkikuntza kopurua handitzen da](uploads/historia/4.jpg)
+      ![Gazte gogotsuen sarrera, aurkikuntza kopurua handitzen da](uploads/historia/5.jpg)
+      ![Gazte gogotsuen sarrera, aurkikuntza kopurua handitzen da](uploads/historia/6.jpg)
 
       Andoni eta Rafaelek beraien aurkikuntzekin
       jarraitzen dute, ez antzinako aztarnenak
@@ -224,9 +224,9 @@ experience:
     start: '1986-01-01'
     end: '1995-01-01'
     summary: |
-      ![Taldearen eta proiektuaren bermatzea](uploads/history/7.jpg)
-      ![Taldearen eta proiektuaren bermatzea](uploads/history/8.jpg)
-      ![Taldearen eta proiektuaren bermatzea](uploads/history/9.jpg)
+      ![Taldearen eta proiektuaren bermatzea](uploads/historia/7.jpg)
+      ![Taldearen eta proiektuaren bermatzea](uploads/historia/8.jpg)
+      ![Taldearen eta proiektuaren bermatzea](uploads/historia/9.jpg)
 
       Antxieta Arkeologi Taldeak 20 urteko historia
       du jada eta bere hirugarren hamarkada
@@ -272,9 +272,9 @@ experience:
     start: '1996-01-01'
     end: '2005-01-01'
     summary: |
-      ![Irikaitzek aztarnen aurkikuntzen eboluzioa irudikatzen du](uploads/history/10.jpg)
-      ![Irikaitzek aztarnen aurkikuntzen eboluzioa irudikatzen du](uploads/history/11.jpg)
-      ![Irikaitzek aztarnen aurkikuntzen eboluzioa irudikatzen du](uploads/history/12.jpg)
+      ![Irikaitzek aztarnen aurkikuntzen eboluzioa irudikatzen du](uploads/historia/10.jpg)
+      ![Irikaitzek aztarnen aurkikuntzen eboluzioa irudikatzen du](uploads/historia/11.jpg)
+      ![Irikaitzek aztarnen aurkikuntzen eboluzioa irudikatzen du](uploads/historia/12.jpg)
 
       Jasotako esperientziak fruitu berriak ematen
       ditu. Taldearen aurkikuntzak aire librean
@@ -309,9 +309,9 @@ experience:
     start: '2006-01-01'
     end: '2015-01-01'
     summary: |
-      ![Aztarnategien ugaritasuna, begiratzen jakin behar da](uploads/history/13.jpg)
-      ![Aztarnategien ugaritasuna, begiratzen jakin behar da](uploads/history/14.jpg)
-      ![Aztarnategien ugaritasuna, begiratzen jakin behar da](uploads/history/15.jpg)
+      ![Aztarnategien ugaritasuna, begiratzen jakin behar da](uploads/historia/13.jpg)
+      ![Aztarnategien ugaritasuna, begiratzen jakin behar da](uploads/historia/14.jpg)
+      ![Aztarnategien ugaritasuna, begiratzen jakin behar da](uploads/historia/15.jpg)
 
       Denborak arrazoia eman eta kendu egiten du.
       Kasu honetan, taldekideen alde dago, gure
