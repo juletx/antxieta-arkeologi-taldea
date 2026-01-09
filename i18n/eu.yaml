@@ -300,3 +300,20 @@
 
 - id: experience
   translation: Historia
+
+# Portfolio block
+
+- id: portfolio_link_code
+  translation: Kodea
+
+- id: portfolio_link_live
+  translation: Martxan
+
+- id: portfolio_link_demo
+  translation: Demoa
+
+- id: portfolio_link_default
+  translation: Esteka
+
+- id: portfolio_view_all
+  translation: Proiektu guztiak ikusi
