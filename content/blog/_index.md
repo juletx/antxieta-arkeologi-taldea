@@ -6,7 +6,7 @@ cms_exclude: true
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: card
+view: article-grid
 
 # Optional header image (relative to `static/media/` folder).
 header:
