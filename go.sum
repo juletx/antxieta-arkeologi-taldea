@@ -1,6 +1,6 @@
 github.com/HugoBlox/kit/modules/analytics v0.3.2-0.20260109010421-2c2d7cd403a1 h1:C7Bn/yVABfF32He1UDjwLcdAG11eBMOLU5jgRFE8zOs=
 github.com/HugoBlox/kit/modules/analytics v0.3.2-0.20260109010421-2c2d7cd403a1/go.mod h1:lEEX95UxzXCMulsg51SIkOtlrj3nKU99fAOV+rQ91bw=
-github.com/HugoBlox/kit/modules/blox v0.11.1-0.20260109010421-2c2d7cd403a1 h1:LHfKNAtTxlffN4y+4Z6DPgI7XnLy22Arhd2YKmq7oi0=
-github.com/HugoBlox/kit/modules/blox v0.11.1-0.20260109010421-2c2d7cd403a1/go.mod h1:0F2Ss2NeylmaBP7+qx0U6zFPeMZ9NoLbAQakKXDqygo=
-github.com/HugoBlox/kit/modules/integrations/netlify v1.2.2-0.20260109010421-2c2d7cd403a1 h1:f6JGWTx0ldZYyNyeNouWOUWfl/z+18i1aH9kpVExjME=
-github.com/HugoBlox/kit/modules/integrations/netlify v1.2.2-0.20260109010421-2c2d7cd403a1/go.mod h1:UuppRGml2K1EmlDkN+HemycohgZLjOy0QPGYOnoPnY4=
+github.com/HugoBlox/kit/modules/blox v0.12.1-0.20260504065810-f107371dc2b6 h1:pbch1oJeq3T9+yAW+EElNWnRbUTyvfVg6yHltoiEjOc=
+github.com/HugoBlox/kit/modules/blox v0.12.1-0.20260504065810-f107371dc2b6/go.mod h1:0F2Ss2NeylmaBP7+qx0U6zFPeMZ9NoLbAQakKXDqygo=
+github.com/HugoBlox/kit/modules/integrations/netlify v1.3.1-0.20260504065810-f107371dc2b6 h1:k7NGuxyFMqnboZ4p17auJZTkV3dlMLI240LfancFHuo=
+github.com/HugoBlox/kit/modules/integrations/netlify v1.3.1-0.20260504065810-f107371dc2b6/go.mod h1:UuppRGml2K1EmlDkN+HemycohgZLjOy0QPGYOnoPnY4=
